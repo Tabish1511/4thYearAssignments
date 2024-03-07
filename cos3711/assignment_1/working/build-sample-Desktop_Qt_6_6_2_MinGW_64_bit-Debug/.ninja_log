@@ -1,0 +1,20 @@
+# ninja log v5
+4	621	7315203179468851	sample_autogen/timestamp	9bca2aff9ec44c92
+4	621	7315203179468851	sample_autogen/mocs_compilation.cpp	9bca2aff9ec44c92
+4	621	7315203179468851	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sample_autogen/timestamp	9bca2aff9ec44c92
+4	621	7315203179468851	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sample_autogen/mocs_compilation.cpp	9bca2aff9ec44c92
+623	888	7315203183038464	CMakeFiles/sample.dir/sample_autogen/mocs_compilation.cpp.obj	e9b42b17b5238955
+630	5814	7315203232597586	CMakeFiles/sample.dir/main.cpp.obj	858844899a4b158a
+5825	6287	7315203237213743	sample.exe	807848be394ed82c
+19	391	7315207261314532	sample_autogen/timestamp	9bca2aff9ec44c92
+19	391	7315207261314532	sample_autogen/mocs_compilation.cpp	9bca2aff9ec44c92
+19	391	7315207261314532	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sample_autogen/timestamp	9bca2aff9ec44c92
+19	391	7315207261314532	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sample_autogen/mocs_compilation.cpp	9bca2aff9ec44c92
+402	5755	7315207314961153	CMakeFiles/sample.dir/main.cpp.obj	858844899a4b158a
+5757	6161	7315207318847310	sample.exe	807848be394ed82c
+13	275	7315208953974179	sample_autogen/timestamp	9bca2aff9ec44c92
+13	275	7315208953974179	sample_autogen/mocs_compilation.cpp	9bca2aff9ec44c92
+13	275	7315208953974179	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sample_autogen/timestamp	9bca2aff9ec44c92
+13	275	7315208953974179	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/sample_autogen/mocs_compilation.cpp	9bca2aff9ec44c92
+285	5182	7315209003134375	CMakeFiles/sample.dir/main.cpp.obj	858844899a4b158a
+5184	5476	7315209005921555	sample.exe	807848be394ed82c

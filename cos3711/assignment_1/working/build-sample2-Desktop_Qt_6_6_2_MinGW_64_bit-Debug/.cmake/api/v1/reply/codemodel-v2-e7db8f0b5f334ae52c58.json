@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d2095216654683d88d54.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "sample2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "sample2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample2-Debug-8b182fdc7dc9dc7545d0.json",
+					"name" : "sample2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sample2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample2_autogen-Debug-ec84d016d9125d0044e5.json",
+					"name" : "sample2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sample2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sample2_autogen_timestamp_deps-Debug-5a0b9629f39303c98db7.json",
+					"name" : "sample2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-sample2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/sample2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
