@@ -1,0 +1,8 @@
+# ninja log v5
+21	299	7316110154573018	simpleWork_autogen/timestamp	b8b43464a4677fe9
+21	299	7316110154573018	simpleWork_autogen/mocs_compilation.cpp	b8b43464a4677fe9
+21	299	7316110154573018	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleWork-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleWork_autogen/timestamp	b8b43464a4677fe9
+21	299	7316110154573018	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleWork-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleWork_autogen/mocs_compilation.cpp	b8b43464a4677fe9
+5702	6003	7316110211490371	simpleWork.exe	4716b9d11ddcaab6
+530	1160	7316107023056931	CMakeFiles/simpleWork.dir/simpleWork_autogen/mocs_compilation.cpp.obj	147c87ecaffa8b36
+313	5700	7316110208601285	CMakeFiles/simpleWork.dir/main.cpp.obj	611bade19e2d7b31

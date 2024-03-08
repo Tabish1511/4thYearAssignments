@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8e243e13e979d9bc0300.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "simpleWork",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleWork::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleWork-Debug-58756fe28359278a13b9.json",
+					"name" : "simpleWork",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleWork_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleWork_autogen-Debug-5827a703450702cae91e.json",
+					"name" : "simpleWork_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleWork_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleWork_autogen_timestamp_deps-Debug-f7a26c199947b3ea9a3a.json",
+					"name" : "simpleWork_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleWork-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/simpleWork"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
