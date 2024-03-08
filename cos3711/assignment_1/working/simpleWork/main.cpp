@@ -1,6 +1,7 @@
 #include <QCoreApplication>
 #include <iostream>
 #include <string>
+#include "review.h"
 
 using namespace std;
 
@@ -15,7 +16,9 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
+    Review review("Sony");
 
+    review.getName();
 
     // return a.exec();
 }
