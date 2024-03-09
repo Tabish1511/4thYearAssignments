@@ -73,6 +73,14 @@ build CMakeFiles/simpleWork.dir/review.cpp.obj: CXX_COMPILER__simpleWork_unscann
   OBJECT_DIR = CMakeFiles\simpleWork.dir
   OBJECT_FILE_DIR = CMakeFiles\simpleWork.dir
 
+build CMakeFiles/simpleWork.dir/reviews.cpp.obj: CXX_COMPILER__simpleWork_unscanned_Debug C$:/Users/User/Documents/Study/UNISA/MODULES/4th$ Year/Assignments_git/cos3711/assignment_1/working/simpleWork/reviews.cpp || cmake_object_order_depends_target_simpleWork
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\simpleWork.dir\reviews.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleWork-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleWork_autogen/include" -isystem C:/Qt6/6.6.2/mingw_64/include/QtCore -isystem C:/Qt6/6.6.2/mingw_64/include -isystem C:/Qt6/6.6.2/mingw_64/mkspecs/win32-g++
+  OBJECT_DIR = CMakeFiles\simpleWork.dir
+  OBJECT_FILE_DIR = CMakeFiles\simpleWork.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target simpleWork
@@ -81,7 +89,7 @@ build CMakeFiles/simpleWork.dir/review.cpp.obj: CXX_COMPILER__simpleWork_unscann
 #############################################
 # Link the executable simpleWork.exe
 
-build simpleWork.exe: CXX_EXECUTABLE_LINKER__simpleWork_Debug CMakeFiles/simpleWork.dir/simpleWork_autogen/mocs_compilation.cpp.obj CMakeFiles/simpleWork.dir/main.cpp.obj CMakeFiles/simpleWork.dir/review.cpp.obj | C$:/Qt6/6.6.2/mingw_64/lib/libQt6Core.a || simpleWork_autogen simpleWork_autogen_timestamp_deps
+build simpleWork.exe: CXX_EXECUTABLE_LINKER__simpleWork_Debug CMakeFiles/simpleWork.dir/simpleWork_autogen/mocs_compilation.cpp.obj CMakeFiles/simpleWork.dir/main.cpp.obj CMakeFiles/simpleWork.dir/review.cpp.obj CMakeFiles/simpleWork.dir/reviews.cpp.obj | C$:/Qt6/6.6.2/mingw_64/lib/libQt6Core.a || simpleWork_autogen simpleWork_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_LIBRARIES = C:/Qt6/6.6.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\simpleWork.dir

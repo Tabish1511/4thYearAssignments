@@ -1,7 +1,9 @@
 #include <QCoreApplication>
+#include <QObject>
 #include <iostream>
 #include <string>
 #include "review.h"
+#include "reviews.h"
 
 using namespace std;
 
@@ -16,9 +18,20 @@ int main(int argc, char *argv[])
 {
     QCoreApplication a(argc, argv);
 
-    Review review("Sony");
+    Reviews reviews(nullptr);
+    Review* revP;
 
-    review.getName();
+    revP = new Review("Tabish");
+    reviews.addToList(revP);
 
-    // return a.exec();
+    revP = new Review("Ahmed");
+    reviews.addToList(revP);
+
+    revP = new Review("Rabia");
+    reviews.addToList(revP);
+
+    revP = new Review("Zaviar");
+    reviews.addToList(revP);
+
+    cout << reviews.getList().toStdString() << endl;
 }

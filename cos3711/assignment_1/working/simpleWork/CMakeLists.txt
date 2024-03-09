@@ -15,6 +15,7 @@ find_package(Qt${QT_VERSION_MAJOR} REQUIRED COMPONENTS Core)
 add_executable(simpleWork
   main.cpp
   review.h review.cpp
+  reviews.h reviews.cpp
 )
 target_link_libraries(simpleWork Qt${QT_VERSION_MAJOR}::Core)
 

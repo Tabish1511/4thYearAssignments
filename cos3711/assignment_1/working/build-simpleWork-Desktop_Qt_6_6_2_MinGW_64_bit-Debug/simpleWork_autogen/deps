@@ -1,4 +1,5 @@
 simpleWork_autogen/timestamp: \
+	C:/Qt6/6.6.2/mingw_64/include/QtCore/QList \
 	C:/Qt6/6.6.2/mingw_64/include/QtCore/QObject \
 	C:/Qt6/6.6.2/mingw_64/include/QtCore/q20functional.h \
 	C:/Qt6/6.6.2/mingw_64/include/QtCore/q20memory.h \
@@ -387,4 +388,6 @@ simpleWork_autogen/timestamp: \
 	C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_1/working/simpleWork/main.cpp \
 	C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_1/working/simpleWork/review.cpp \
 	C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_1/working/simpleWork/review.h \
+	C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_1/working/simpleWork/reviews.cpp \
+	C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_1/working/simpleWork/reviews.h \
 	C:/Qt6/Tools/CMake_64/bin/cmake.exe

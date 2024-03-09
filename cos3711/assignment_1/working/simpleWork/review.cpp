@@ -11,7 +11,8 @@ Review::Review(QString nameP)
     // std::cout << "The is the review constructor!";
 }
 
-void Review::getName()
+QString Review::getName()
 {
-    std::cout << "The name was set: " << name.toStdString() << "\n";
+    return "The name was set: " + name + "\n";
 }
+

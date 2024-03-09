@@ -143,6 +143,12 @@
 			"MU",
 			"EWIEGA46WW/moc_review.cpp",
 			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/simpleWork/reviews.h",
+			"MU",
+			"EWIEGA46WW/moc_reviews.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -217,6 +223,11 @@
 		],
 		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/simpleWork/review.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/simpleWork/reviews.cpp",
 			"MU",
 			null
 		]

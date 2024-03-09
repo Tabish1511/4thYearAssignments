@@ -9,7 +9,7 @@ class Review : public QObject
 public:
     explicit Review(QObject *parent = nullptr);
     Review(QString nameP);
-    void getName();
+    QString getName();
 private:
     QString name;
 signals:
