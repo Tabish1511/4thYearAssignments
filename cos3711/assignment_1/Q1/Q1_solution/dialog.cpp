@@ -31,7 +31,7 @@ void Dialog::on_addButton_clicked()
 
     // reviews.getList();
 
-    softwareP->getSoftware();
+    // softwareP->getSoftware();
 
     // Clear input values for next input
     ui->lineEdit->clear();
