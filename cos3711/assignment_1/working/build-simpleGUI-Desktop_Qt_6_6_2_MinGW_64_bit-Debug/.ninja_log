@@ -1,0 +1,11 @@
+# ninja log v5
+56	488	7318645662111685	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+2072	9787	7318645442806055	CMakeFiles/simpleGUI.dir/main.cpp.obj	ebc500ac2e4225dc
+56	488	7318645662111685	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+56	488	7318645662111685	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+2064	9905	7318645443972031	CMakeFiles/simpleGUI.dir/simpleGUI_autogen/mocs_compilation.cpp.obj	a6d1c2b04a35c55a
+529	7205	7318645729338358	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+56	488	7318645662111685	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+7206	8172	7318645738820653	simpleGUI.exe	c812f103497ac1e6
+2394	10277	7318636640369586	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+502	7590	7318617266469078	CMakeFiles/simpleGUI.dir/software.cpp.obj	a94f3508767b905b
