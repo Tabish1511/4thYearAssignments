@@ -22,21 +22,13 @@ void Dialog::on_addButton_clicked()
     QDate date = ui->dateEdit->date();
     bool recommend = ui->checkBox->isChecked();
 
-    // qDebug() << text;
-    // qDebug() << date;
-    // qDebug() << recommend;
-
     softwareP = new Software(text, date, recommend);
     reviews.addToList(softwareP);
 
-    // reviews.getList();
-
-    // softwareP->getSoftware();
-
     // Clear input values for next input
     ui->lineEdit->clear();
-    ui->dateEdit->setDate(QDate::currentDate()); // Set to current date or any default date
-    ui->checkBox->setChecked(false); // Uncheck the checkbox
+    ui->dateEdit->setDate(QDate::currentDate());
+    ui->checkBox->setChecked(false);
 }
 
 

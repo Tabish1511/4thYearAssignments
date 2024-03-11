@@ -9,7 +9,7 @@ class Software : public QObject
 public:
     explicit Software(QObject *parent = nullptr);
     Software(QString nameP, QDate dateP, bool recommendP);
-    void getSoftware(); // <<== GET RID OF THIS MEMBER FUNCTION
+    void getSoftware();
 private:
     QString name;
     QDate date;
