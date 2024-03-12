@@ -1,0 +1,63 @@
+# ninja log v5
+2	1716	7319539087600196	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+2	1716	7319539087600196	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+2	1716	7319539087600196	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+2	1716	7319539087600196	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+1726	8023	7319539151268376	CMakeFiles/simpleTable.dir/main.cpp.obj	fb632045099456a
+1731	8045	7319539151775158	CMakeFiles/simpleTable.dir/simpleTable_autogen/mocs_compilation.cpp.obj	6e3ebc540ab3c6b7
+1739	9160	7319539163442682	CMakeFiles/simpleTable.dir/dialog.cpp.obj	5f86ac1c12b1d7bd
+9162	9674	7319539168602176	simpleTable.exe	5b709c76a0646caf
+26	1846	7319541761304596	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+26	1846	7319541761304596	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+26	1846	7319541761304596	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+26	1846	7319541761304596	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+1855	9666	7319541840442235	CMakeFiles/simpleTable.dir/simpleTable_autogen/mocs_compilation.cpp.obj	6e3ebc540ab3c6b7
+1848	9993	7319541843928441	CMakeFiles/simpleTable.dir/main.cpp.obj	fb632045099456a
+1862	11417	7319541858745630	CMakeFiles/simpleTable.dir/dialog.cpp.obj	5f86ac1c12b1d7bd
+11418	12177	7319541866144033	simpleTable.exe	5b709c76a0646caf
+56	458	7319548031632922	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+56	458	7319548031632922	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+56	458	7319548031632922	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+56	458	7319548031632922	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+30	422	7319548356047520	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+30	422	7319548356047520	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+30	422	7319548356047520	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+30	422	7319548356047520	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+466	8232	7319548434149310	CMakeFiles/simpleTable.dir/dialog.cpp.obj	5f86ac1c12b1d7bd
+8234	9038	7319548442055692	simpleTable.exe	5b709c76a0646caf
+50	449	7319548877393274	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+50	449	7319548877393274	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+50	449	7319548877393274	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+50	449	7319548877393274	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+52	2193	7319551926761732	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+52	2193	7319551926761732	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+52	2193	7319551926761732	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+52	2193	7319551926761732	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+56	480	7319552216437476	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+56	480	7319552216437476	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+56	480	7319552216437476	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+56	480	7319552216437476	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+49	1981	7319552821020454	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+49	1981	7319552821020454	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+49	1981	7319552821020454	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+49	1981	7319552821020454	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+1982	10775	7319552910628304	CMakeFiles/simpleTable.dir/simpleTable_autogen/mocs_compilation.cpp.obj	6e3ebc540ab3c6b7
+1991	10972	7319552912581384	CMakeFiles/simpleTable.dir/main.cpp.obj	fb632045099456a
+51	493	7319554023724489	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+51	493	7319554023724489	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+51	493	7319554023724489	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+51	493	7319554023724489	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+541	8598	7319554104841519	CMakeFiles/simpleTable.dir/dialog.cpp.obj	5f86ac1c12b1d7bd
+8600	9419	7319554112958050	simpleTable.exe	5b709c76a0646caf
+50	501	7319554210373798	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+50	501	7319554210373798	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+50	501	7319554210373798	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+50	501	7319554210373798	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+551	8551	7319554290980194	CMakeFiles/simpleTable.dir/dialog.cpp.obj	5f86ac1c12b1d7bd
+8552	9332	7319554298674648	simpleTable.exe	5b709c76a0646caf
+29	477	7319556149638442	simpleTable_autogen/timestamp	d5dd7b7450022ba6
+29	477	7319556149638442	simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+29	477	7319556149638442	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/timestamp	d5dd7b7450022ba6
+29	477	7319556149638442	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleTable_autogen/mocs_compilation.cpp	d5dd7b7450022ba6
+525	8259	7319556227454206	CMakeFiles/simpleTable.dir/dialog.cpp.obj	5f86ac1c12b1d7bd
+8261	9059	7319556235379220	simpleTable.exe	5b709c76a0646caf

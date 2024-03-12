@@ -40,21 +40,3 @@ QString Reviews::displayReviews() {
     }
     return output;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
