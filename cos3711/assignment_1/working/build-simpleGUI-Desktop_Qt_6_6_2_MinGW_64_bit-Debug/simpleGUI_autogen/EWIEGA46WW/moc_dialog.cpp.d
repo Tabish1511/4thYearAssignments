@@ -2,7 +2,10 @@ C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/as
   C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/moc_predefs.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/QDate \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/QList \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/QMetaObject \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/QMetaProperty \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/QObject \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/QVariant \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/q20memory.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/q20type_traits.h \
@@ -60,6 +63,7 @@ C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/as
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmargins.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmath.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/qmetaobject.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmetatype.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qminmax.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qnamespace.h \

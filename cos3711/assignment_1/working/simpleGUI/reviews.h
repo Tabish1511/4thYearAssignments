@@ -2,6 +2,9 @@
 #define REVIEWS_H
 #include <QList>
 #include <QObject>
+#include <QMetaObject>
+#include <QMetaProperty>
+#include <QVariant>
 #include "software.h"
 
 class Reviews : public QObject
@@ -13,6 +16,7 @@ public:
     void addToList(Software *softwareP);
     void getList();
     void clearList();
+    void displayReviews();
 private:
     QList <Software*> softwareList;
 signals:

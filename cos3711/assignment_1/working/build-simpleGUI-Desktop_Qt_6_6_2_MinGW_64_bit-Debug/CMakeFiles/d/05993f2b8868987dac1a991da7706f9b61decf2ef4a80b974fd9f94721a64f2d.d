@@ -1,7 +1,10 @@
 simpleGUI_autogen/timestamp: \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/QDate \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/QList \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/QMetaObject \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/QMetaProperty \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/QObject \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/QVariant \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/q20memory.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/q20type_traits.h \
@@ -59,6 +62,7 @@ simpleGUI_autogen/timestamp: \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmargins.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmath.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmetacontainer.h \
+  C:/Qt6/6.6.2/mingw_64/include/QtCore/qmetaobject.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qmetatype.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qminmax.h \
   C:/Qt6/6.6.2/mingw_64/include/QtCore/qnamespace.h \

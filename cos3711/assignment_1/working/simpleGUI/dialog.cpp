@@ -22,16 +22,9 @@ void Dialog::on_addButton_clicked()
     QDate date = ui->dateEdit->date();
     bool recommend = ui->checkBox->isChecked();
 
-    // qDebug() << text;
-    // qDebug() << date;
-    // qDebug() << recommend;
 
     softwareP = new Software(text, date, recommend);
     reviews.addToList(softwareP);
-
-    // reviews.getList();
-
-    softwareP->getSoftware();
 
     // Clear input values for next input
     ui->lineEdit->clear();
@@ -42,7 +35,8 @@ void Dialog::on_addButton_clicked()
 
 void Dialog::on_pushButton_clicked()
 {
-    reviews.getList();
+    // reviews.getList();
+    reviews.displayReviews();
     reviews.clearList();
 }
 

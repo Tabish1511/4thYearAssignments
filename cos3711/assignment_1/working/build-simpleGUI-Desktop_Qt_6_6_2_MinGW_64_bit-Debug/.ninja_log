@@ -1,11 +1,91 @@
 # ninja log v5
-56	488	7318645662111685	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
-2072	9787	7318645442806055	CMakeFiles/simpleGUI.dir/main.cpp.obj	ebc500ac2e4225dc
-56	488	7318645662111685	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
-56	488	7318645662111685	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
-2064	9905	7318645443972031	CMakeFiles/simpleGUI.dir/simpleGUI_autogen/mocs_compilation.cpp.obj	a6d1c2b04a35c55a
-529	7205	7318645729338358	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
-56	488	7318645662111685	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
-7206	8172	7318645738820653	simpleGUI.exe	c812f103497ac1e6
-2394	10277	7318636640369586	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
-502	7590	7318617266469078	CMakeFiles/simpleGUI.dir/software.cpp.obj	a94f3508767b905b
+54	2131	7319401087044612	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+2133	11067	7319401177938108	CMakeFiles/simpleGUI.dir/main.cpp.obj	ebc500ac2e4225dc
+54	2131	7319401087044612	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+54	2131	7319401087044612	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+2140	11102	7319401178384691	CMakeFiles/simpleGUI.dir/simpleGUI_autogen/mocs_compilation.cpp.obj	a6d1c2b04a35c55a
+2147	11949	7319401186933412	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+54	2131	7319401087044612	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+11950	12798	7319401195405381	simpleGUI.exe	c812f103497ac1e6
+2164	11709	7319401183351459	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+2154	11335	7319401180414811	CMakeFiles/simpleGUI.dir/software.cpp.obj	a94f3508767b905b
+24	3311	7319401464254795	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+24	3311	7319401464254795	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+24	3311	7319401464254795	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+24	3311	7319401464254795	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+3313	12184	7319401554465470	CMakeFiles/simpleGUI.dir/main.cpp.obj	ebc500ac2e4225dc
+3320	12804	7319401560621935	CMakeFiles/simpleGUI.dir/simpleGUI_autogen/mocs_compilation.cpp.obj	a6d1c2b04a35c55a
+3327	13021	7319401563077074	CMakeFiles/simpleGUI.dir/software.cpp.obj	a94f3508767b905b
+3338	13050	7319401563161136	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+3345	13280	7319401565597870	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+13281	14281	7319401575556723	simpleGUI.exe	c812f103497ac1e6
+51	515	7319402201810137	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+51	515	7319402201810137	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+51	515	7319402201810137	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+51	515	7319402201810137	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+559	7657	7319402273067303	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+567	8851	7319402285226943	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8852	9540	7319402292052270	simpleGUI.exe	c812f103497ac1e6
+51	487	7319402970268558	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+51	487	7319402970268558	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+51	487	7319402970268558	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+51	487	7319402970268558	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+530	7529	7319403040695812	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+538	8693	7319403052352782	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8694	9382	7319403059003642	simpleGUI.exe	c812f103497ac1e6
+55	511	7319403933853551	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+55	511	7319403933853551	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+55	511	7319403933853551	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+55	511	7319403933853551	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+557	7558	7319404004137743	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+549	8735	7319404016097551	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8736	9408	7319404022771865	simpleGUI.exe	c812f103497ac1e6
+52	472	7319404502158755	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+52	472	7319404502158755	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+52	472	7319404502158755	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+52	472	7319404502158755	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+519	7519	7319404572104218	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+512	8622	7319404583766606	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8623	9371	7319404591083163	simpleGUI.exe	c812f103497ac1e6
+50	474	7319404863151966	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+50	474	7319404863151966	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+50	474	7319404863151966	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+50	474	7319404863151966	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+505	7549	7319404933585896	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+511	8661	7319404945101738	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8662	9378	7319404952085442	simpleGUI.exe	c812f103497ac1e6
+49	519	7319405443133034	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+49	519	7319405443133034	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+49	519	7319405443133034	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+49	519	7319405443133034	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+560	7588	7319405513421538	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+567	8760	7319405525533412	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8761	9485	7319405532699061	simpleGUI.exe	c812f103497ac1e6
+47	477	7319405798121357	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+47	477	7319405798121357	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+47	477	7319405798121357	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+47	477	7319405798121357	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+512	7572	7319405868551973	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+518	8717	7319405880562070	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8718	9392	7319405887206134	simpleGUI.exe	c812f103497ac1e6
+49	502	7319406026408848	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+49	502	7319406026408848	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+49	502	7319406026408848	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+49	502	7319406026408848	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+553	7614	7319406097516531	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+546	8795	7319406109320772	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8796	9524	7319406116488124	simpleGUI.exe	c812f103497ac1e6
+50	504	7319406506119912	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+50	504	7319406506119912	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+50	504	7319406506119912	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+50	504	7319406506119912	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+548	7521	7319406575894065	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+540	8701	7319406588051658	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8702	9451	7319406595533001	simpleGUI.exe	c812f103497ac1e6
+47	475	7319407071275063	simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+47	475	7319407071275063	simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+47	475	7319407071275063	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/timestamp	7a5d4d182a8d0977
+47	475	7319407071275063	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleGUI-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleGUI_autogen/mocs_compilation.cpp	7a5d4d182a8d0977
+519	7547	7319407142021254	CMakeFiles/simpleGUI.dir/reviews.cpp.obj	7601ca7a88849074
+527	8724	7319407153861712	CMakeFiles/simpleGUI.dir/dialog.cpp.obj	830efdeed98fb35e
+8725	9391	7319407160500837	simpleGUI.exe	c812f103497ac1e6
