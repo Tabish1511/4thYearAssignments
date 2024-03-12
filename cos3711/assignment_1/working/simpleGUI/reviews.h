@@ -16,7 +16,7 @@ public:
     void addToList(Software *softwareP);
     void getList();
     void clearList();
-    void displayReviews();
+    QString displayReviews();
 private:
     QList <Software*> softwareList;
 signals:

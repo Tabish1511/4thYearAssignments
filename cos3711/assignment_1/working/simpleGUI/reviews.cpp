@@ -23,33 +23,24 @@ void Reviews::clearList()
     softwareList.clear();
 }
 
-void Reviews::displayReviews() {
+QString Reviews::displayReviews() {
+    QString output;
+    output += "Review Data:\n";
     // Loop through each software item in the list
     for (Software *software : softwareList) {
         const QMetaObject *metaObj = software->metaObject();
-        qDebug() << "Review Data:";
+        output += "\n";
         // Loop through each property of the Software object
         for (int i = 1; i < metaObj->propertyCount(); ++i) {
             QMetaProperty property = metaObj->property(i);
             const char *name = property.name();
             QVariant value = property.read(software);
-            qDebug() << value.toString();
+            output += QString("%1: %2\n").arg(name).arg(value.toString());
         }
     }
-
-    // for(Software *software: softwareList){
-    // const QMetaObject *metaObj = software->metaObject();
-    // qDebug() << "Review data: ";
-    // qDebug() << metaObj->propertyCount();
-    // QMetaProperty property = metaObj->property(4);
-    // // qDebug() << property.name();
-    // const char *name = property.name();
-    // // qDebug() << name;
-    // QVariant value = property.read(software);
-    // // qDebug() << value;
-    // qDebug() << value.toString();
-    // }
+    return output;
 }
+
 
 
 

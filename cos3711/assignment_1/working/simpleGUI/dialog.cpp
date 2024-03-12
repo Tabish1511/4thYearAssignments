@@ -35,8 +35,10 @@ void Dialog::on_addButton_clicked()
 
 void Dialog::on_pushButton_clicked()
 {
-    // reviews.getList();
-    reviews.displayReviews();
+    reviews.getList();
+    QString userInput = reviews.displayReviews();
     reviews.clearList();
+
+    ui->userInputBlock->setText(userInput);
 }
 

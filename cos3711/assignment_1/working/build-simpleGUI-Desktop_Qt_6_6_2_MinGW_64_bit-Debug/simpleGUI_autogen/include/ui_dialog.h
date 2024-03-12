@@ -16,6 +16,7 @@
 #include <QtWidgets/QDialog>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QTextEdit>
 
 QT_BEGIN_NAMESPACE
 
@@ -27,12 +28,13 @@ public:
     QCheckBox *checkBox;
     QPushButton *addButton;
     QPushButton *pushButton;
+    QTextEdit *userInputBlock;
 
     void setupUi(QDialog *Dialog)
     {
         if (Dialog->objectName().isEmpty())
             Dialog->setObjectName("Dialog");
-        Dialog->resize(534, 344);
+        Dialog->resize(857, 344);
         lineEdit = new QLineEdit(Dialog);
         lineEdit->setObjectName("lineEdit");
         lineEdit->setGeometry(QRect(160, 50, 221, 25));
@@ -48,6 +50,9 @@ public:
         pushButton = new QPushButton(Dialog);
         pushButton->setObjectName("pushButton");
         pushButton->setGeometry(QRect(300, 250, 80, 25));
+        userInputBlock = new QTextEdit(Dialog);
+        userInputBlock->setObjectName("userInputBlock");
+        userInputBlock->setGeometry(QRect(490, 30, 311, 251));
 
         retranslateUi(Dialog);
 
