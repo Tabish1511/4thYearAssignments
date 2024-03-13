@@ -143,7 +143,9 @@ simpleTable_autogen/timestamp: \
   C:/Qt6/6.6.2/mingw_64/include/QtGui/qwindowdefs.h \
   C:/Qt6/6.6.2/mingw_64/include/QtGui/qwindowdefs_win.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/QDialog \
+  C:/Qt6/6.6.2/mingw_64/include/QtWidgets/QStyledItemDelegate \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/QTableWidget \
+  C:/Qt6/6.6.2/mingw_64/include/QtWidgets/QTableWidgetItem \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qabstractitemdelegate.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qabstractitemview.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qabstractscrollarea.h \
@@ -155,6 +157,7 @@ simpleTable_autogen/timestamp: \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qsizepolicy.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qslider.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qstyle.h \
+  C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qstyleditemdelegate.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qstyleoption.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qtabbar.h \
   C:/Qt6/6.6.2/mingw_64/include/QtWidgets/qtableview.h \

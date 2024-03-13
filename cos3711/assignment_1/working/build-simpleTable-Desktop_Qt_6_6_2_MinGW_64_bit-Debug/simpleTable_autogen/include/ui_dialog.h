@@ -12,10 +12,12 @@
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
 #include <QtWidgets/QDialog>
+#include <QtWidgets/QDoubleSpinBox>
 #include <QtWidgets/QHeaderView>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QPushButton>
+#include <QtWidgets/QSpinBox>
 #include <QtWidgets/QTableWidget>
 
 QT_BEGIN_NAMESPACE
@@ -26,13 +28,13 @@ public:
     QTableWidget *tableWidget;
     QLineEdit *composerEdit;
     QLineEdit *albumEdit;
-    QLineEdit *ReplacementEdit;
-    QLineEdit *ratingEdit;
     QPushButton *addMusic;
     QLabel *label;
     QLabel *label_2;
     QLabel *label_3;
     QLabel *label_4;
+    QSpinBox *ratingSpinBox;
+    QDoubleSpinBox *replacementSpinBox;
 
     void setupUi(QDialog *Dialog)
     {
@@ -62,12 +64,6 @@ public:
         albumEdit = new QLineEdit(Dialog);
         albumEdit->setObjectName("albumEdit");
         albumEdit->setGeometry(QRect(190, 80, 161, 25));
-        ReplacementEdit = new QLineEdit(Dialog);
-        ReplacementEdit->setObjectName("ReplacementEdit");
-        ReplacementEdit->setGeometry(QRect(360, 80, 171, 25));
-        ratingEdit = new QLineEdit(Dialog);
-        ratingEdit->setObjectName("ratingEdit");
-        ratingEdit->setGeometry(QRect(540, 80, 181, 25));
         addMusic = new QPushButton(Dialog);
         addMusic->setObjectName("addMusic");
         addMusic->setGeometry(QRect(870, 80, 80, 25));
@@ -83,6 +79,14 @@ public:
         label_4 = new QLabel(Dialog);
         label_4->setObjectName("label_4");
         label_4->setGeometry(QRect(540, 40, 121, 17));
+        ratingSpinBox = new QSpinBox(Dialog);
+        ratingSpinBox->setObjectName("ratingSpinBox");
+        ratingSpinBox->setGeometry(QRect(540, 80, 171, 31));
+        replacementSpinBox = new QDoubleSpinBox(Dialog);
+        replacementSpinBox->setObjectName("replacementSpinBox");
+        replacementSpinBox->setGeometry(QRect(360, 80, 171, 31));
+        replacementSpinBox->setMaximum(250.000000000000000);
+        replacementSpinBox->setValue(0.000000000000000);
 
         retranslateUi(Dialog);
 

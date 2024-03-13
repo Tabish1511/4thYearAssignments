@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7d55d85304fcecf12cee.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "simpleTable2",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleTable2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleTable2-Debug-5463131528b7e27cba72.json",
+					"name" : "simpleTable2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleTable2_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleTable2_autogen-Debug-990eb72b0546083fdc95.json",
+					"name" : "simpleTable2_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "simpleTable2_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-simpleTable2_autogen_timestamp_deps-Debug-d366cceae41b98108217.json",
+					"name" : "simpleTable2_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleTable2-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/simpleTable2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

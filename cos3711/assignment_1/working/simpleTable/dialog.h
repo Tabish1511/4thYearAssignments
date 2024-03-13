@@ -3,6 +3,17 @@
 
 #include <QDialog>
 #include <QTableWidget>
+#include <QTableWidgetItem>
+#include <QStyledItemDelegate>
+
+class RatingDelegate : public QStyledItemDelegate
+{
+public:
+    RatingDelegate(QObject *parent = nullptr);
+
+    void paint(QPainter *painter, const QStyleOptionViewItem &option,
+               const QModelIndex &index) const override;
+};
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
@@ -24,5 +35,6 @@ private slots:
 private:
     Ui::Dialog *ui;
     QTableWidget *tableWidget;
+    int rowCount;
 };
 #endif // DIALOG_H

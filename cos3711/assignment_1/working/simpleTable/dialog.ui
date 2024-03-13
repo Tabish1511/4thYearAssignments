@@ -169,26 +169,6 @@
     </rect>
    </property>
   </widget>
-  <widget class="QLineEdit" name="ReplacementEdit">
-   <property name="geometry">
-    <rect>
-     <x>360</x>
-     <y>80</y>
-     <width>171</width>
-     <height>25</height>
-    </rect>
-   </property>
-  </widget>
-  <widget class="QLineEdit" name="ratingEdit">
-   <property name="geometry">
-    <rect>
-     <x>540</x>
-     <y>80</y>
-     <width>181</width>
-     <height>25</height>
-    </rect>
-   </property>
-  </widget>
   <widget class="QPushButton" name="addMusic">
    <property name="geometry">
     <rect>
@@ -252,6 +232,32 @@
    </property>
    <property name="text">
     <string>Rating</string>
+   </property>
+  </widget>
+  <widget class="QSpinBox" name="ratingSpinBox">
+   <property name="geometry">
+    <rect>
+     <x>540</x>
+     <y>80</y>
+     <width>171</width>
+     <height>31</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QDoubleSpinBox" name="replacementSpinBox">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>80</y>
+     <width>171</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="maximum">
+    <double>250.000000000000000</double>
+   </property>
+   <property name="value">
+    <double>0.000000000000000</double>
    </property>
   </widget>
  </widget>
