@@ -1,0 +1,99 @@
+# ninja log v5
+11416	12163	7321221079131183	simpleFileIO.exe	d50d391ffe1109a9
+66	552	7321220963073770	simpleFileIO_autogen/timestamp	85b200068f2e8053
+601	11415	7321221071678115	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+1951	9714	7321158371745773	CMakeFiles/simpleFileIO.dir/main.cpp.obj	cdfc57b6a849a7dc
+66	552	7321220963073770	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+66	552	7321220963073770	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+66	552	7321220963073770	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+1942	9451	7321158369172514	CMakeFiles/simpleFileIO.dir/simpleFileIO_autogen/mocs_compilation.cpp.obj	d04530ede9fa4e24
+63	596	7321231976802606	simpleFileIO_autogen/timestamp	85b200068f2e8053
+63	596	7321231976802606	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+63	596	7321231976802606	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+63	596	7321231976802606	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+78	578	7321233063025912	simpleFileIO_autogen/timestamp	85b200068f2e8053
+78	578	7321233063025912	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+78	578	7321233063025912	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+78	578	7321233063025912	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+626	11773	7321233174991508	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+11775	12495	7321233182156062	simpleFileIO.exe	d50d391ffe1109a9
+59	602	7321240387349951	simpleFileIO_autogen/timestamp	85b200068f2e8053
+59	602	7321240387349951	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+59	602	7321240387349951	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+59	602	7321240387349951	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+649	11124	7321240492499951	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+11125	11848	7321240499639510	simpleFileIO.exe	d50d391ffe1109a9
+68	524	7321240964350538	simpleFileIO_autogen/timestamp	85b200068f2e8053
+68	524	7321240964350538	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+68	524	7321240964350538	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+68	524	7321240964350538	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+572	11005	7321241069247066	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+11006	11732	7321241076383314	simpleFileIO.exe	d50d391ffe1109a9
+36	772	7321242170601902	simpleFileIO_autogen/timestamp	85b200068f2e8053
+36	772	7321242170601902	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+36	772	7321242170601902	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+36	772	7321242170601902	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+822	15311	7321242316043337	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+15313	16083	7321242323618608	simpleFileIO.exe	d50d391ffe1109a9
+52	536	7321245383283038	simpleFileIO_autogen/timestamp	85b200068f2e8053
+52	536	7321245383283038	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+52	536	7321245383283038	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+52	536	7321245383283038	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+49	553	7321246060564221	simpleFileIO_autogen/timestamp	85b200068f2e8053
+49	553	7321246060564221	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+49	553	7321246060564221	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+49	553	7321246060564221	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+61	562	7321246377179008	simpleFileIO_autogen/timestamp	85b200068f2e8053
+61	562	7321246377179008	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+61	562	7321246377179008	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+61	562	7321246377179008	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+54	539	7321247082895158	simpleFileIO_autogen/timestamp	85b200068f2e8053
+54	539	7321247082895158	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+54	539	7321247082895158	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+54	539	7321247082895158	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+52	557	7321247803416903	simpleFileIO_autogen/timestamp	85b200068f2e8053
+52	557	7321247803416903	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+52	557	7321247803416903	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+52	557	7321247803416903	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+621	11041	7321247908317217	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+11043	11786	7321247915623870	simpleFileIO.exe	d50d391ffe1109a9
+37	520	7321248938683237	simpleFileIO_autogen/timestamp	85b200068f2e8053
+37	520	7321248938683237	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+37	520	7321248938683237	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+37	520	7321248938683237	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+57	504	7321249718632331	simpleFileIO_autogen/timestamp	85b200068f2e8053
+57	504	7321249718632331	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+57	504	7321249718632331	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+57	504	7321249718632331	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+550	10172	7321249815337214	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+10174	10802	7321249821502935	simpleFileIO.exe	d50d391ffe1109a9
+25	528	7321251477036770	simpleFileIO_autogen/timestamp	85b200068f2e8053
+25	528	7321251477036770	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+25	528	7321251477036770	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+25	528	7321251477036770	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+574	10529	7321251577032912	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+10531	11214	7321251583666106	simpleFileIO.exe	d50d391ffe1109a9
+59	517	7321252085373631	simpleFileIO_autogen/timestamp	85b200068f2e8053
+59	517	7321252085373631	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+59	517	7321252085373631	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+59	517	7321252085373631	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+565	11036	7321252190624778	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+11037	11711	7321252197265925	simpleFileIO.exe	d50d391ffe1109a9
+96	656	7321252250556370	simpleFileIO_autogen/timestamp	85b200068f2e8053
+96	656	7321252250556370	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+96	656	7321252250556370	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+96	656	7321252250556370	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+705	10322	7321252347256387	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+10324	11451	7321252358317926	simpleFileIO.exe	d50d391ffe1109a9
+24	635	7321253491228945	simpleFileIO_autogen/timestamp	85b200068f2e8053
+24	635	7321253491228945	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+24	635	7321253491228945	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+24	635	7321253491228945	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+682	11040	7321253595284982	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+11041	11771	7321253602456980	simpleFileIO.exe	d50d391ffe1109a9
+19	413	7321254725228522	simpleFileIO_autogen/timestamp	85b200068f2e8053
+19	413	7321254725228522	simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+19	413	7321254725228522	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/timestamp	85b200068f2e8053
+19	413	7321254725228522	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/working/build-simpleFileIO-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/simpleFileIO_autogen/mocs_compilation.cpp	85b200068f2e8053
+457	10557	7321254825991602	CMakeFiles/simpleFileIO.dir/dialog.cpp.obj	d6ad2c66ee976b4a
+10559	11395	7321254834630892	simpleFileIO.exe	d50d391ffe1109a9
