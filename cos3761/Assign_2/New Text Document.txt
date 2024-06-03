@@ -47,3 +47,26 @@ If x is less than its successor, then the successor is not less than x. This hol
 There exists an x such that S(x) and ¬∀yQ(x,y):
 Let x=0. S(0) holds true since 0 is even. Also, for any integer y, there exists an integer greater than y (such as y+1). Therefore, Q(0,y) does not hold for all y.
 
+Q.6.1
+Model Construction:
+Universe A: The set of all integers, Z.
+Interpretation of R: Define R(x,y) as x<y.
+
+Verification:
+R(x,y) means x<y.
+R(y,x) means y<x.
+
+R(x,y)∨R(y,x) means x<y or y<x. This is true for all distinct x and y in Z.
+
+Therefore, the implication (R(x,y)∨R(y,x))→¬(R(x,y)∧R(y,x)) is true for all x and y in Z under this interpretation.
+
+.2 R(x,y)∧R(y,x) would mean x<y and y<x. This is always false for any x and y because it is impossible for x to be both less than and greater than y simultaneously.
+
+Q.7
+For every x∈A, I have found a y∈A such that R(x,y)∧R(y,y) holds. Therefore, the model M satisfies the sentence ∀x∃y(R(x,y)∧R(y,y)).
+
+Q.8.1
+Given that ∀x(R(x)→Q(x)) being true implies that for all R(x) is true then Q(x) must be true, and given that ∀x(R(x)∨Q(x)) being false implies there exists some Q(a) are false, these conditions are contradictory. Therefore, you cannot find a model where the left-hand side is true and the right-hand side is false simultaneously. Thus, it is impossible to disprove the validity of the sequent ∀x(R(x)→Q(x))⊢∀x(R(x)∨Q(x)) by finding a mathematical model where the formula to the left of ⊢ evaluates to true and the formula to the right of ⊢ evaluates to false.
+
+.2 It is indeed possible to find a model where the left formula is true and the right formula is false. This means that the sequent: ∀x∀y(S(x,y)→¬S(y,x))⊢∀xS(x,x) is not valid, as it is possible to have a situation where the left side is true and the right side is false, thus disproving the validity by finding a non-mathematical model.
+
