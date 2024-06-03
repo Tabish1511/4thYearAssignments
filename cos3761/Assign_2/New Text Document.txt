@@ -39,3 +39,11 @@ Q4.1         →
 
 3) In this substitution, we replace all occurrences of the variable "y" with the term f(x). However, this substitution can create a problem if f(x) contains any bound occurrences of "y" within the scope of quantifiers. To avoid this problem, we need to rename the bound variable "y" within the scope of the quantifiers. Let's rename it to a fresh variable, say "y'". Then the substituted formula becomes:
 ∃x(¬P(x,y′)→Q(x,y′,z))→∀y∃z(Q(x,x,x)∧P(x,f(x)))
+
+Q.5
+For all x, if Q(x,f(x)) then ¬Q(f(x),x):
+If x is less than its successor, then the successor is not less than x. This holds true in the set of integers since for any integer x<x+1 and x+1 is not less than x.
+
+There exists an x such that S(x) and ¬∀yQ(x,y):
+Let x=0. S(0) holds true since 0 is even. Also, for any integer y, there exists an integer greater than y (such as y+1). Therefore, Q(0,y) does not hold for all y.
+
