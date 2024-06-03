@@ -1,0 +1,41 @@
+Q1.1 ∀x(S(x)→¬L(x,k))
+.2 ∀x(S(x)→∃y(S(y)∧L(x,y)))
+.3 ∀x(S(x)→(∃y(C(y)∧T(x,y))→∃z(G(z)∧T(x,z))))
+.4 ∃y(C(y)∧T(k,y))∧¬∃y(C(y)∧T(b,y))
+.5 ∃x(S(x)∧G(y)∧T(x,y))
+
+Q2.1 There is exactly one student who takes Geometry
+.2 There is atleast one computer class that no student takes.
+.3 Every student takes atleast one subject.
+.4 Kevin loves all students.
+
+Q3.1 wff
+.2 wff
+.3 wff
+.4 wff
+.5 wff
+.6 wff
+.7 term
+
+Q4.1         →
+            / \
+           ∃   ∀
+          /     \
+         x      y
+        /       / \
+       →       ∃   ∧
+     / \      / \ / \
+   ¬    Q    z  Q P  P
+       / \           \
+      P   Q           y
+     / \ / \
+     x   y z
+
+.2
+1)In this substitution, we replace all occurrences of the variable "x" with the term f(z). This doesn't create a problem because f(z) is a term, and it can be substituted for any variable. Therefore, the substituted formula is:
+
+2) In this substitution, we replace all occurrences of the variable "y" with the term f(z). This substitution can create a problem if In this substitution, we replace all occurrences of the variable "y" with the term f(z). This substitution can create a problem if f(z) contains any bound occurrences of "y" within the scope of quantifiers. However, since f(z) is a function term and not a variable, it shouldn't cause any problems with variable capture. Therefore, the substituted formula is:f(z) contains any bound occurrences of "y" within the scope of quantifiers. However, since f(z) is a function term and not a variable, it shouldn't cause any problems with variable capture. Therefore, the substituted formula is:
+∃x(¬P(x,f(z))→Q(x,f(z),z))→∀y∃z(Q(x,x,x)∧P(x,f(z)))
+
+3) In this substitution, we replace all occurrences of the variable "y" with the term f(x). However, this substitution can create a problem if f(x) contains any bound occurrences of "y" within the scope of quantifiers. To avoid this problem, we need to rename the bound variable "y" within the scope of the quantifiers. Let's rename it to a fresh variable, say "y'". Then the substituted formula becomes:
+∃x(¬P(x,y′)→Q(x,y′,z))→∀y∃z(Q(x,x,x)∧P(x,f(x)))
