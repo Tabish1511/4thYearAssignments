@@ -70,3 +70,62 @@ Given that ∀x(R(x)→Q(x)) being true implies that for all R(x) is true then Q
 
 .2 It is indeed possible to find a model where the left formula is true and the right formula is false. This means that the sequent: ∀x∀y(S(x,y)→¬S(y,x))⊢∀xS(x,x) is not valid, as it is possible to have a situation where the left side is true and the right side is false, thus disproving the validity by finding a non-mathematical model.
 
+9.1
+∃xF(x)∨∃xG(x) (Premise)
+Assume ∃xF(x) (Assumption for ∨-Elimination)
+F(a) (Existential Instantiation from 2)
+F(a)∨G(a) (∨-Introduction from 3)
+∃x(F(x)∨G(x)) (∃-Introduction from 4)
+Assume ∃xG(x) (Assumption for ∨-Elimination)
+G(b) (Existential Instantiation from 6)
+F(b)∨G(b) (∨-Introduction from 7)
+∃x(F(x)∨G(x)) (∃-Introduction from 8)
+∃x(F(x)∨G(x)) (∨-Elimination from 1, 2-5, 6-9)
+Thus, we have shown that ∃xF(x)∨∃xG(x)⊢∃x(F(x)∨G(x)).
+
+9.2
+∀x(P(x)∨Q(x)) (Premise)
+∀x(¬P(x)) (Premise)
+Assume an arbitrary element a (Assumption for Universal Generalization)
+P(a)∨Q(a) (Universal Instantiation from 1)
+¬P(a) (Universal Instantiation from 2)
+From P(a)∨Q(a) and ¬P(a), by disjunction elimination (∨-Elimination), we get Q(a).
+Suppose P(a) (assumption for ∨-Elimination)
+P(a) contradicts ¬P(a), hence Q(a) must be true.
+Q(a) (From 6)
+Since a was arbitrary, ∀xQ(x) (Universal Generalization from 7)
+Thus, we have shown that ∀x(P(x)∨Q(x)),∀x(¬P(x))⊢∀xQ(x).
+
+9.3
+∀x∀y∀z((S(x,y)∧S(y,z))→S(x,z)) (Premise)
+∀x¬S(x,x) (Premise)
+Assume arbitrary elements a and b (Assumption for Universal Generalization)
+Assume S(a,b) (Assumption for Implication Introduction)
+Assume S(b,a) (Assumption for Contradiction)
+Instantiate the first premise to a, b, and a: (S(a,b)∧S(b,a))→S(a,a)
+From S(a,b) and S(b,a), we get S(a,a) (Modus Ponens from 6)
+¬S(a,a) (Universal Instantiation from 2)
+S(a,a)∧¬S(a,a) (Contradiction from 7 and 8)
+Therefore, ¬S(b,a) (Negation Introduction from 5-9)
+S(a,b)→¬S(b,a) (Implication Introduction from 4-10)
+Since a and b were arbitrary, ∀x∀y(S(x,y)→¬S(y,x)) (Universal Generalization from 3-11)
+Thus, we have shown that ∀x∀y∀z((S(x,y)∧S(y,z))→S(x,z)),∀x¬S(x,x)⊢∀x∀y(S(x,y)→¬S(y,x)).
+
+9.4
+∀x ∀y (Q(y) → F(x)) (given premise)
+∃y Q(y) (assume for conditional proof)
+y (assume for existential instantiation)
+Q(y) (from 2, existential instantiation)
+∀x F(x) (from 1, universal instantiation twice: ∀y (Q(y) → F(x)), Q(y))
+∃y Q(y) → ∀x F(x) (from 2-5, conditional proof)
+∀x ∀y (Q(y) → F(x)) ├ ∃y Q(y) → ∀x F(x) (discharge all assumptions)
+
+9.5
+∀x (P(x) ∧ Q(x)) (given premise)
+x (assume for universal generalization)
+(P(x) ∧ Q(x)) (from 1, universal instantiation)
+P(x) (from 3, conjunction elimination)
+Q(x) (from 3, conjunction elimination)
+(P(x) → Q(x)) (from 4, 5, conditional introduction)
+∀x (P(x) → Q(x)) (from 2, 6, universal generalization)
+∀x (P(x) ∧ Q(x)) ├ ∀x (P(x) → Q(x)) (discharge assumption x)
