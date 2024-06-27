@@ -1,0 +1,20 @@
+# ninja log v6
+16	550	7412028078822484	test_x1_newQT_autogen/timestamp	4cde5c514789dd0c
+16	550	7412028078822484	test_x1_newQT_autogen/mocs_compilation.cpp	4cde5c514789dd0c
+16	550	7412028078822484	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/test_x1_newQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/test_x1_newQT_autogen/timestamp	4cde5c514789dd0c
+16	550	7412028078822484	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/test_x1_newQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/test_x1_newQT_autogen/mocs_compilation.cpp	4cde5c514789dd0c
+561	1431	7412028080620118	CMakeFiles/test_x1_newQT.dir/test_x1_newQT_autogen/mocs_compilation.cpp.obj	ca62447e6886a1f7
+575	4858	7412028080764485	CMakeFiles/test_x1_newQT.dir/main.cpp.obj	9bb1ea307961d07a
+4865	5194	7412028123654204	test_x1_newQT.exe	33ffab4928e55a5d
+73	450	7412028527395821	test_x1_newQT_autogen/timestamp	4cde5c514789dd0c
+73	450	7412028527395821	test_x1_newQT_autogen/mocs_compilation.cpp	4cde5c514789dd0c
+73	450	7412028527395821	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/test_x1_newQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/test_x1_newQT_autogen/timestamp	4cde5c514789dd0c
+73	450	7412028527395821	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/test_x1_newQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/test_x1_newQT_autogen/mocs_compilation.cpp	4cde5c514789dd0c
+453	5917	7412028531191615	CMakeFiles/test_x1_newQT.dir/main.cpp.obj	9bb1ea307961d07a
+5918	6305	7412028585845600	test_x1_newQT.exe	33ffab4928e55a5d
+69	417	7412034380215021	test_x1_newQT_autogen/timestamp	4cde5c514789dd0c
+69	417	7412034380215021	test_x1_newQT_autogen/mocs_compilation.cpp	4cde5c514789dd0c
+69	417	7412034380215021	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/test_x1_newQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/test_x1_newQT_autogen/timestamp	4cde5c514789dd0c
+69	417	7412034380215021	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/test_x1_newQT/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/test_x1_newQT_autogen/mocs_compilation.cpp	4cde5c514789dd0c
+419	4561	7412034383715307	CMakeFiles/test_x1_newQT.dir/main.cpp.obj	9bb1ea307961d07a
+4561	4847	7412034425136053	test_x1_newQT.exe	33ffab4928e55a5d
