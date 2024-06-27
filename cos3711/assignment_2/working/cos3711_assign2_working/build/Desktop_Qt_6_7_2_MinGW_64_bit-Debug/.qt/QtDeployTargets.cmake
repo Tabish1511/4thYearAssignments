@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_cos3711_assign2_working_FILE C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/cos3711_assign2_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/cos3711_assign2_working.exe)
+set(__QT_DEPLOY_TARGET_cos3711_assign2_working_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_cos3711_assign2_working_RUNTIME_DLLS C:/Qt/6.7.2/mingw_64/bin/Qt6Core.dll)
