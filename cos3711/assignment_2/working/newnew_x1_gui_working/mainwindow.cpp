@@ -23,6 +23,10 @@ void MainWindow::on_pushButton_clicked()
 
     Person *personPtr = new Person(name, affiliation, email);
 
-    qDebug() << personPtr->toString();
+    Registration newRegistration(personPtr);
+
+    // qDebug() << personPtr->toString();
+    // qDebug() << newRegistration.getAttendee()->toString();
+    qDebug() << newRegistration.toString();
 }
 

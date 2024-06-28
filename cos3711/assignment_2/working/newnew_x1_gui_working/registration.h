@@ -10,6 +10,7 @@ public:
     explicit Registration(QObject *parent = nullptr);
     Registration(Person *a);
     Person *getAttendee() const;
+    QString toString();
 
 private:
     Person *m_Attendee;

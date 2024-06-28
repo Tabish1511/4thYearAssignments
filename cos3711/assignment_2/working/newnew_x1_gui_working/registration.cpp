@@ -13,3 +13,8 @@ Person *Registration::getAttendee() const
 {
     return m_Attendee;
 }
+
+QString Registration::toString()
+{
+    return m_Attendee->toString();
+}
