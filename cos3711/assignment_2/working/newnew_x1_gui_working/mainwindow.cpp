@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "person.h"
 #include "registration.h"
+#include "registrationlist.h"
 #include "./ui_mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
@@ -23,10 +24,39 @@ void MainWindow::on_pushButton_clicked()
 
     Person *personPtr = new Person(name, affiliation, email);
 
-    Registration newRegistration(personPtr);
+    // Registration newRegistration(personPtr);
+
+    Registration *registrationPtr = new Registration(personPtr);
+
+    RegistrationList newRegistrationList(this);
+
+
+
+
+
+
+
+
+
+
+
+
+    bool didAdd = newRegistrationList.addRegistration(registrationPtr);
+
+
 
     // qDebug() << personPtr->toString();
     // qDebug() << newRegistration.getAttendee()->toString();
-    qDebug() << newRegistration.toString();
+    // qDebug() << newRegistration.toString();
+    // qDebug() << registrationPtr->toString();
+
+
+
+
+    qDebug() << didAdd;
+    qDebug() << newRegistrationList.totalRegistrations();
+
+
+
 }
 

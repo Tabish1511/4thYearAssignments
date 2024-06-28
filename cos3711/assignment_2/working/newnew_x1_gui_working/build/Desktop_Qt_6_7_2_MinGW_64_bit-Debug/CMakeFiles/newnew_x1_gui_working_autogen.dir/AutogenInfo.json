@@ -273,6 +273,12 @@
 			"MU",
 			"EWIEGA46WW/moc_registration.cpp",
 			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlist.h",
+			"MU",
+			"EWIEGA46WW/moc_registrationlist.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -363,6 +369,11 @@
 		],
 		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registration.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlist.cpp",
 			"MU",
 			null
 		]
