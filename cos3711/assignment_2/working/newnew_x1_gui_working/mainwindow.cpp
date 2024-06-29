@@ -24,35 +24,14 @@ void MainWindow::on_pushButton_clicked()
 
     Person *personPtr = new Person(name, affiliation, email);
 
-    // Registration newRegistration(personPtr);
-
     Registration *registrationPtr = new Registration(personPtr);
 
-    RegistrationList newRegistrationList(this);
-
-
-
-
-
-
-
-
-
-
-
-
     bool didAdd = newRegistrationList.addRegistration(registrationPtr);
-
-
 
     // qDebug() << personPtr->toString();
     // qDebug() << newRegistration.getAttendee()->toString();
     // qDebug() << newRegistration.toString();
     // qDebug() << registrationPtr->toString();
-
-
-
-
     qDebug() << didAdd;
     qDebug() << newRegistrationList.totalRegistrations();
 
