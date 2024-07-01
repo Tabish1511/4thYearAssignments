@@ -9,6 +9,7 @@ public:
     explicit GuestRegistration(QObject *parent = nullptr);
     GuestRegistration(Person *a, QString q):Registration(a), m_Category(q){};
     double calculateFee();
+    QString toString() const override;
 
 
 private:

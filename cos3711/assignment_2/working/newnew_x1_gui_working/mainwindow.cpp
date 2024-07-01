@@ -2,6 +2,7 @@
 #include "person.h"
 #include "registration.h"
 #include "studentregistration.h"
+#include "guestregistration.h"
 #include "registrationlist.h"
 #include "./ui_mainwindow.h"
 
@@ -27,22 +28,33 @@ void MainWindow::on_pushButton_clicked()
 
     Registration *registrationPtr;
 
-    if(affiliation == "student"){
+    if(affiliation == "student" || affiliation == "Student"){
         registrationPtr = new StudentRegistration(personPtr, "Bachelors");
-    }else{
+    }else if(affiliation == "guest" || affiliation == "Guest"){
+        registrationPtr = new GuestRegistration(personPtr, "VIP");
+    }else {
         registrationPtr = new Registration(personPtr);
     }
 
     newRegistrationList.addRegistration(registrationPtr);
 
-    QList<Registration*> allRegistrations = newRegistrationList.getAllRegistrations();
-    for (Registration* reg : allRegistrations) {
-        qDebug() << reg->toString();
-    }
-
+    allRegistrations = newRegistrationList.getAllRegistrations();
 }
 
 
+void MainWindow::on_pushButton_2_clicked()
+{
+    QString nameSearch = ui->lineEdit_searchByName->text();
+    // ui->label_searchOutput->setText("No attendee found");
+
+    for (Registration* reg : allRegistrations) {
+        if (nameSearch == reg->getAttendee()->getName()) {
+            ui->label_searchOutput->setText(reg->getAttendee()->toString());
+            return;
+        }else{
+            qDebug() << "Not found yet...";
+        }
+    }
 
 
 
@@ -57,20 +69,25 @@ void MainWindow::on_pushButton_clicked()
 
 
 
-// Registration *registrationPtr = new Registration(personPtr);
 
-// bool didAdd = newRegistrationList.addRegistration(registrationPtr);
 
-// qDebug() << personPtr->toString();
-// qDebug() << registrationPtr->toString();
-// qDebug() << registrationPtr->getBookingDate();
-// qDebug() << registrationPtr->calculateFee();
 
-// bool didAdd = newRegistrationList.addRegistration(registrationPtr);
 
-// qDebug() << didAdd;
-// qDebug() << newRegistrationList.totalRegistrations();
-// qDebug() << newRegistrationList.totaltFee(affiliation);
+
+
+
+
+
+    // Registration* firstRegistration = allRegistrations[0];
+
+    // // qDebug() << firstRegistration->getAttendee()->getName();
+
+    // bool isSame = (nameSearch == firstRegistration->getAttendee()->getName());
+
+    // qDebug() << isSame;
+}
+
+
 
 
 

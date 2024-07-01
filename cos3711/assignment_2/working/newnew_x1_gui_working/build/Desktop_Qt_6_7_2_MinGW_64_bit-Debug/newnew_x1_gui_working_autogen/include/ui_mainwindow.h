@@ -32,6 +32,9 @@ public:
     QLineEdit *lineEdit_2_email;
     QLineEdit *lineEdit_3_affil;
     QPushButton *pushButton;
+    QPushButton *pushButton_2;
+    QLineEdit *lineEdit_searchByName;
+    QLabel *label_searchOutput;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -63,6 +66,15 @@ public:
         pushButton = new QPushButton(centralwidget);
         pushButton->setObjectName("pushButton");
         pushButton->setGeometry(QRect(350, 60, 80, 25));
+        pushButton_2 = new QPushButton(centralwidget);
+        pushButton_2->setObjectName("pushButton_2");
+        pushButton_2->setGeometry(QRect(30, 130, 131, 25));
+        lineEdit_searchByName = new QLineEdit(centralwidget);
+        lineEdit_searchByName->setObjectName("lineEdit_searchByName");
+        lineEdit_searchByName->setGeometry(QRect(170, 130, 141, 25));
+        label_searchOutput = new QLabel(centralwidget);
+        label_searchOutput->setObjectName("label_searchOutput");
+        label_searchOutput->setGeometry(QRect(30, 180, 281, 51));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
@@ -84,6 +96,8 @@ public:
         label_2->setText(QCoreApplication::translate("MainWindow", "Email", nullptr));
         label_3->setText(QCoreApplication::translate("MainWindow", "Affiliation", nullptr));
         pushButton->setText(QCoreApplication::translate("MainWindow", "Submit", nullptr));
+        pushButton_2->setText(QCoreApplication::translate("MainWindow", "Search by name:", nullptr));
+        label_searchOutput->setText(QString());
     } // retranslateUi
 
 };
