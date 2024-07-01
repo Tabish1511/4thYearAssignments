@@ -1,5 +1,7 @@
 #include "mainwindow.h"
 #include "person.h"
+#include "registration.h"
+#include "registrationlist.h"
 #include "./ui_mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
@@ -20,10 +22,24 @@ void MainWindow::on_pushButton_clicked()
     QString email = ui->lineEdit_2_email->text();
     QString affiliation = ui->lineEdit_3_affil->text();
 
-    Person newPerson(name, affiliation, email);
+    Person *personPtr = new Person(name, affiliation, email);
 
-    qDebug() << name << email << affiliation;
+    Registration *registrationPtr = new Registration(personPtr);
 
-    qDebug() << newPerson.toString();
+    bool didAdd = newRegistrationList.addRegistration(registrationPtr);
+
+    // qDebug() << personPtr->toString();
+    // qDebug() << newRegistration.getAttendee()->toString();
+    // qDebug() << newRegistration.toString();
+    // qDebug() << registrationPtr->toString();
+    qDebug() << didAdd;
+    qDebug() << newRegistrationList.totalRegistrations();
+
+    QList<Registration*> allRegistrations = newRegistrationList.getAllRegistrations();
+    for(Registration* reg : allRegistrations) {
+        qDebug() << reg->getAttendee()->toString();
+    }
+
+
 }
 

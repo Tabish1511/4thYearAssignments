@@ -267,6 +267,18 @@
 			"MU",
 			"EWIEGA46WW/moc_person.cpp",
 			null
+		],
+		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registration.h",
+			"MU",
+			"EWIEGA46WW/moc_registration.cpp",
+			null
+		],
+		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.h",
+			"MU",
+			"EWIEGA46WW/moc_registrationlist.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -352,6 +364,16 @@
 		],
 		[
 			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/person.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registration.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.cpp",
 			"MU",
 			null
 		]

@@ -1,5 +1,6 @@
 C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x230_gui_working_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/mainwindow.h \
   C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x230_gui_working_autogen/moc_predefs.h \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QObject \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20memory.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20type_traits.h \
@@ -348,4 +349,7 @@ C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignm
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/sys/types.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/time.h \
   C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/vadefs.h \
-  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h
+  C:/Qt/Tools/mingw1120_64/x86_64-w64-mingw32/include/wchar.h \
+  C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/person.h \
+  C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registration.h \
+  C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.h
