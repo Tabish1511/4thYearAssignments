@@ -1,76 +1,14 @@
 # ninja log v6
-51	568	7415452786926985	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-625	6585	7415440143414052	CMakeFiles/newnew_x1_gui_working.dir/person.cpp.obj	4aa60c6eb1624e75
-51	568	7415452786926985	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
+49	593	7415486190487927	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
+8662	9591	7415486276668680	newnew_x1_gui_working.exe	9743c059bd34f076
 2106	10050	7415437536211405	CMakeFiles/newnew_x1_gui_working.dir/main.cpp.obj	ca74cfb96be9c85
-7626	8396	7415452862789298	newnew_x1_gui_working.exe	9743c059bd34f076
-51	568	7415452786926985	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-51	568	7415452786926985	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-572	7625	7415452792244793	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
+424	4430	7415477814714272	CMakeFiles/newnew_x1_gui_working.dir/person.cpp.obj	4aa60c6eb1624e75
+49	593	7415486190487927	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
+49	593	7415486190487927	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
+49	593	7415486190487927	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
+596	8662	7415486195995971	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
 2099	9990	7415437536139792	CMakeFiles/newnew_x1_gui_working.dir/newnew_x1_gui_working_autogen/mocs_compilation.cpp.obj	3707b449bd4a1175
 3524	13857	7415412396643559	CMakeFiles/newnew_x1_gui_working.dir/registration.cpp.obj	fbeeea23b8d3c1f2
 3544	14155	7415412396848477	CMakeFiles/newnew_x1_gui_working.dir/registrationlist.cpp.obj	57861b1756dba69f
 632	7471	7415420895332681	CMakeFiles/newnew_x1_gui_working.dir/studentregistration.cpp.obj	235013599d6ccd41
 640	7446	7415420895404749	CMakeFiles/newnew_x1_gui_working.dir/guestregistration.cpp.obj	1ea74b503810773e
-73	590	7415458253403394	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-73	590	7415458253403394	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-73	590	7415458253403394	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-73	590	7415458253403394	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-593	8431	7415458258529696	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8431	9349	7415458336911370	newnew_x1_gui_working.exe	9743c059bd34f076
-59	577	7415459478811526	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-59	577	7415459478811526	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-59	577	7415459478811526	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-59	577	7415459478811526	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-105	636	7415459721592913	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-105	636	7415459721592913	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-105	636	7415459721592913	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-105	636	7415459721592913	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-103	600	7415460236469422	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-103	600	7415460236469422	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-103	600	7415460236469422	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-103	600	7415460236469422	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-603	8365	7415460241397996	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8366	9243	7415460319023004	newnew_x1_gui_working.exe	9743c059bd34f076
-102	597	7415462574264781	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-102	597	7415462574264781	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-102	597	7415462574264781	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-102	597	7415462574264781	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-600	8379	7415462579146843	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8380	9394	7415462656954386	newnew_x1_gui_working.exe	9743c059bd34f076
-96	657	7415462770715272	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-96	657	7415462770715272	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-96	657	7415462770715272	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-96	657	7415462770715272	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-660	10183	7415462776450763	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-10184	11309	7415462871685761	newnew_x1_gui_working.exe	9743c059bd34f076
-97	614	7415463898507248	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-97	614	7415463898507248	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-97	614	7415463898507248	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-97	614	7415463898507248	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-617	8560	7415463903623972	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8560	9392	7415463983052704	newnew_x1_gui_working.exe	9743c059bd34f076
-44	555	7415465493473211	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-44	555	7415465493473211	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-44	555	7415465493473211	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-44	555	7415465493473211	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-559	9639	7415465498671096	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-9640	10872	7415465589479488	newnew_x1_gui_working.exe	9743c059bd34f076
-105	645	7415465858137873	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-105	645	7415465858137873	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-105	645	7415465858137873	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-105	645	7415465858137873	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-649	8430	7415465863623314	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8430	9373	7415465941441252	newnew_x1_gui_working.exe	9743c059bd34f076
-48	565	7415466920307348	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-48	565	7415466920307348	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-48	565	7415466920307348	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-48	565	7415466920307348	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-568	8589	7415466925522683	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8589	9569	7415467005735972	newnew_x1_gui_working.exe	9743c059bd34f076
-58	567	7415467645142642	newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-58	567	7415467645142642	newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-58	567	7415467645142642	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/timestamp	38172cbbb005175c
-58	567	7415467645142642	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/mocs_compilation.cpp	38172cbbb005175c
-570	8408	7415467650380076	CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj	d7ec3e0ea90877ba
-8408	9369	7415467728768837	newnew_x1_gui_working.exe	9743c059bd34f076

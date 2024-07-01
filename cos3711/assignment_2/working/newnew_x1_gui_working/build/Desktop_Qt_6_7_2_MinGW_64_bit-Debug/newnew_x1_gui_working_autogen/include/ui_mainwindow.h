@@ -74,7 +74,7 @@ public:
         lineEdit_searchByName->setGeometry(QRect(170, 130, 141, 25));
         label_searchOutput = new QLabel(centralwidget);
         label_searchOutput->setObjectName("label_searchOutput");
-        label_searchOutput->setGeometry(QRect(30, 180, 281, 51));
+        label_searchOutput->setGeometry(QRect(30, 150, 201, 71));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");

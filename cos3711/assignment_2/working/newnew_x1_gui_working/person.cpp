@@ -32,7 +32,7 @@ QString Person::getEmail()
 
 QString Person::toString()
 {
-    return QString("Name: %1, Affiliation: %2, Email: %3")
+    return QString("Name: %1\nAffiliation: %2\nEmail: %3\n")
         .arg(m_Name)
         .arg(m_Affiliation)
         .arg(m_Email);

@@ -39,17 +39,21 @@ void MainWindow::on_pushButton_clicked()
     newRegistrationList.addRegistration(registrationPtr);
 
     allRegistrations = newRegistrationList.getAllRegistrations();
+
+    for (Registration* reg : allRegistrations) {
+        qDebug() << reg->getAttendee()->toString();
+    }
 }
 
 
 void MainWindow::on_pushButton_2_clicked()
 {
     QString nameSearch = ui->lineEdit_searchByName->text();
-    // ui->label_searchOutput->setText("No attendee found");
 
     for (Registration* reg : allRegistrations) {
         if (nameSearch == reg->getAttendee()->getName()) {
             ui->label_searchOutput->setText(reg->getAttendee()->toString());
+            qDebug() << reg->getAttendee()->getAffiliation();       //  <<==    GET THE CORRECT TOSTRING() BY INITIALIZING CORRECT CLASS AFTER THIS
             return;
         }else{
             qDebug() << "Not found yet...";
