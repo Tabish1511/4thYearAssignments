@@ -1,6 +1,7 @@
 #include "mainwindow.h"
 #include "person.h"
 #include "registration.h"
+#include "studentregistration.h"
 #include "registrationlist.h"
 #include "./ui_mainwindow.h"
 
@@ -24,18 +25,53 @@ void MainWindow::on_pushButton_clicked()
 
     Person *personPtr = new Person(name, affiliation, email);
 
-    Registration *registrationPtr = new Registration(personPtr);
+    Registration *registrationPtr;
 
-    bool didAdd = newRegistrationList.addRegistration(registrationPtr);
+    if(affiliation == "student"){
+        registrationPtr = new StudentRegistration(personPtr, "Bachelors");
+    }else{
+        registrationPtr = new Registration(personPtr);
+    }
 
-    // qDebug() << personPtr->toString();
-    // qDebug() << newRegistration.getAttendee()->toString();
-    // qDebug() << newRegistration.toString();
-    // qDebug() << registrationPtr->toString();
-    qDebug() << didAdd;
-    qDebug() << newRegistrationList.totalRegistrations();
+    newRegistrationList.addRegistration(registrationPtr);
 
-
+    QList<Registration*> allRegistrations = newRegistrationList.getAllRegistrations();
+    for (Registration* reg : allRegistrations) {
+        qDebug() << reg->toString();
+    }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// Registration *registrationPtr = new Registration(personPtr);
+
+// bool didAdd = newRegistrationList.addRegistration(registrationPtr);
+
+// qDebug() << personPtr->toString();
+// qDebug() << registrationPtr->toString();
+// qDebug() << registrationPtr->getBookingDate();
+// qDebug() << registrationPtr->calculateFee();
+
+// bool didAdd = newRegistrationList.addRegistration(registrationPtr);
+
+// qDebug() << didAdd;
+// qDebug() << newRegistrationList.totalRegistrations();
+// qDebug() << newRegistrationList.totaltFee(affiliation);
+
+
+
 

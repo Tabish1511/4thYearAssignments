@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-81fd71334ec84a8ac8e8.json",
+					"jsonFile" : "directory-.-Debug-184f55b99748d464ea2d.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "newnew_x1_gui_working::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-newnew_x1_gui_working-Debug-351adb9ea72969b9d8b1.json",
+					"jsonFile" : "target-newnew_x1_gui_working-Debug-1ab1bf3c80aa7a68fb97.json",
 					"name" : "newnew_x1_gui_working",
 					"projectIndex" : 0
 				},
