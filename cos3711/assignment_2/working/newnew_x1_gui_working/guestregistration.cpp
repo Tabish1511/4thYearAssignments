@@ -11,5 +11,5 @@ double GuestRegistration::calculateFee()
 
 QString GuestRegistration::toString() const
 {
-    return getAttendee()->toString() + ", Qualification: " + m_Category;
+    return getAttendee()->toString() + "Qualification: " + m_Category;
 }

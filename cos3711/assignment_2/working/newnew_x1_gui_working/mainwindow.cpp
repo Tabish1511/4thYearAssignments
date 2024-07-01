@@ -52,44 +52,19 @@ void MainWindow::on_pushButton_2_clicked()
 
     for (Registration* reg : allRegistrations) {
         if (nameSearch == reg->getAttendee()->getName()) {
-            ui->label_searchOutput->setText(reg->getAttendee()->toString());
-            qDebug() << reg->getAttendee()->getAffiliation();       //  <<==    GET THE CORRECT TOSTRING() BY INITIALIZING CORRECT CLASS AFTER THIS
+            StudentRegistration* studentReg = dynamic_cast<StudentRegistration*>(reg);
+            if (studentReg) {
+                ui->label_searchOutput->setText(studentReg->toString());
+            } else {
+                ui->label_searchOutput->setText(reg->toString());
+            }
             return;
-        }else{
+        } else {
             qDebug() << "Not found yet...";
         }
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    // Registration* firstRegistration = allRegistrations[0];
-
-    // // qDebug() << firstRegistration->getAttendee()->getName();
-
-    // bool isSame = (nameSearch == firstRegistration->getAttendee()->getName());
-
-    // qDebug() << isSame;
 }
+
 
 
 

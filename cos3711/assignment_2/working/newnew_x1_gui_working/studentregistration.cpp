@@ -11,5 +11,5 @@ double StudentRegistration::calculateFee()
 
 QString StudentRegistration::toString() const
 {
-    return getAttendee()->toString() + ", Qualification: " + m_Qualification;
+    return getAttendee()->toString() + "Qualification: " + m_Qualification;
 }
