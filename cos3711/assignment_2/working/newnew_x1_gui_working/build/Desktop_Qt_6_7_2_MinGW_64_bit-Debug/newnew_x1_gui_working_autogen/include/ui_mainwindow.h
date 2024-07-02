@@ -47,7 +47,6 @@ public:
     QPushButton *pushButton_4;
     QLabel *label_searchOutput_3;
     QTableWidget *tableWidget;
-    QPushButton *pushButton_5;
     QMenuBar *menubar;
     QMenu *menuFile;
     QStatusBar *statusbar;
@@ -56,7 +55,7 @@ public:
     {
         if (MainWindow->objectName().isEmpty())
             MainWindow->setObjectName("MainWindow");
-        MainWindow->resize(802, 765);
+        MainWindow->resize(802, 617);
         actionSave = new QAction(MainWindow);
         actionSave->setObjectName("actionSave");
         actionOpen = new QAction(MainWindow);
@@ -127,9 +126,6 @@ public:
         tableWidget->horizontalHeader()->setDefaultSectionSize(220);
         tableWidget->verticalHeader()->setCascadingSectionResizes(false);
         tableWidget->verticalHeader()->setDefaultSectionSize(35);
-        pushButton_5 = new QPushButton(centralwidget);
-        pushButton_5->setObjectName("pushButton_5");
-        pushButton_5->setGeometry(QRect(310, 590, 161, 25));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
@@ -171,7 +167,6 @@ public:
         ___qtablewidgetitem1->setText(QCoreApplication::translate("MainWindow", "Email", nullptr));
         QTableWidgetItem *___qtablewidgetitem2 = tableWidget->horizontalHeaderItem(2);
         ___qtablewidgetitem2->setText(QCoreApplication::translate("MainWindow", "Affiliation", nullptr));
-        pushButton_5->setText(QCoreApplication::translate("MainWindow", "XML Reader", nullptr));
         menuFile->setTitle(QCoreApplication::translate("MainWindow", "File", nullptr));
     } // retranslateUi
 

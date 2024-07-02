@@ -134,4 +134,13 @@ void MainWindow::on_actionOpen_triggered()
     } else {
         qDebug() << "No file selected.";
     }
+
+
+    for (const Registration* reg : allRegistrations) {
+        qDebug() << reg->getAttendee()->toString();
+    }
 }
+
+
+
+

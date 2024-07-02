@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>802</width>
-    <height>765</height>
+    <height>617</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -336,19 +336,6 @@
       <string>Affiliation</string>
      </property>
     </column>
-   </widget>
-   <widget class="QPushButton" name="pushButton_5">
-    <property name="geometry">
-     <rect>
-      <x>310</x>
-      <y>590</y>
-      <width>161</width>
-      <height>25</height>
-     </rect>
-    </property>
-    <property name="text">
-     <string>XML Reader</string>
-    </property>
    </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
