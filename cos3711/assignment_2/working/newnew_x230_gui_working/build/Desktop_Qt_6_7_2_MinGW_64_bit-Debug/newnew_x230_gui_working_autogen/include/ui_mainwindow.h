@@ -38,6 +38,8 @@ public:
     QPushButton *pushButton_3;
     QLineEdit *lineEdit_searchByAffiliation;
     QLabel *label_searchOutput_2;
+    QPushButton *pushButton_4;
+    QLabel *label_searchOutput_3;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -87,6 +89,12 @@ public:
         label_searchOutput_2 = new QLabel(centralwidget);
         label_searchOutput_2->setObjectName("label_searchOutput_2");
         label_searchOutput_2->setGeometry(QRect(390, 140, 271, 21));
+        pushButton_4 = new QPushButton(centralwidget);
+        pushButton_4->setObjectName("pushButton_4");
+        pushButton_4->setGeometry(QRect(390, 170, 141, 24));
+        label_searchOutput_3 = new QLabel(centralwidget);
+        label_searchOutput_3->setObjectName("label_searchOutput_3");
+        label_searchOutput_3->setGeometry(QRect(540, 170, 121, 21));
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
@@ -112,6 +120,8 @@ public:
         label_searchOutput->setText(QString());
         pushButton_3->setText(QCoreApplication::translate("MainWindow", "Affiliation Fee", nullptr));
         label_searchOutput_2->setText(QString());
+        pushButton_4->setText(QCoreApplication::translate("MainWindow", "Get number of Registered", nullptr));
+        label_searchOutput_3->setText(QString());
     } // retranslateUi
 
 };

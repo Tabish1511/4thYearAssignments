@@ -91,3 +91,13 @@ void MainWindow::on_pushButton_3_clicked()
 
 
 
+
+void MainWindow::on_pushButton_4_clicked()
+{
+    QString totalRegistered = QString("The total Registered: %1").arg(newRegistrationList.totalRegistrations());
+
+    qDebug() << totalRegistered;
+
+    ui->label_searchOutput_3->setText(totalRegistered);
+}
+
