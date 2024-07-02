@@ -12,8 +12,8 @@ public:
     Registration(Person *a);
     Person *getAttendee() const;
     virtual QString toString() const;
-    QDate getBookingDate();
-    double calculateFee();
+    QDate getBookingDate() const;
+    double calculateFee() const;
 
     static const double STANDARD_FEE;
 

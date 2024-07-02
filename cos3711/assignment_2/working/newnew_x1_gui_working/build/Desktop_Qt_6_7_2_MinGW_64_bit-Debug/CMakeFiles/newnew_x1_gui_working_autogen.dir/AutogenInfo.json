@@ -248,6 +248,15 @@
 		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets.cmake",
 		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginTargets-relwithdebinfo.cmake",
 		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Widgets/Qt6QModernWindowsStylePluginAdditionalTargetInfo.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlConfigVersion.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlConfigVersionImpl.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlConfig.cmake",
+		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/CMakeFindDependencyMacro.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlDependencies.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlTargets.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlTargets-relwithdebinfo.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlAdditionalTargetInfo.cmake",
+		"C:/Qt/6.7.2/mingw_64/lib/cmake/Qt6Xml/Qt6XmlVersionlessTargets.cmake",
 		"C:/Qt/Tools/CMake_64/share/cmake-3.29/Modules/GNUInstallDirs.cmake"
 	],
 	"CMAKE_SOURCE_DIR" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working",
@@ -287,6 +296,12 @@
 			null
 		],
 		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistwriter.h",
+			"MU",
+			"EWIEGA46WW/moc_registrationlistwriter.cpp",
+			null
+		],
+		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/studentregistration.h",
 			"MU",
 			"EWIEGA46WW/moc_studentregistration.cpp",
@@ -303,6 +318,7 @@
 		"QT_GUI_LIB",
 		"QT_NEEDS_QMAIN",
 		"QT_WIDGETS_LIB",
+		"QT_XML_LIB",
 		"UNICODE",
 		"WIN32",
 		"WIN64",
@@ -324,6 +340,7 @@
 		"C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++",
 		"C:/Qt/6.7.2/mingw_64/include/QtWidgets",
 		"C:/Qt/6.7.2/mingw_64/include/QtGui",
+		"C:/Qt/6.7.2/mingw_64/include/QtXml",
 		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++",
 		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32",
 		"C:/Qt/Tools/mingw1120_64/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/backward",
@@ -391,6 +408,11 @@
 		],
 		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlist.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistwriter.cpp",
 			"MU",
 			null
 		],

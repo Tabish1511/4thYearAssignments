@@ -40,10 +40,6 @@ void MainWindow::on_pushButton_clicked()
 
     allRegistrations = newRegistrationList.getAllRegistrations();
 
-    for (Registration* reg : allRegistrations) {
-        qDebug() << reg->getAttendee()->toString();
-    }
-
 
     int row = 0;
     for (const Registration* reg : allRegistrations) {
@@ -81,8 +77,6 @@ void MainWindow::on_pushButton_3_clicked()
 
     QString affilOutput;
 
-    // qDebug() << affilSearch;
-
     if(affilSearch == "Student" || affilSearch == "student"){
         affilOutput = "ZAR50.00";
     } else if(affilSearch == "Guest" || affilSearch == "guest"){
@@ -99,8 +93,29 @@ void MainWindow::on_pushButton_4_clicked()
 {
     QString totalRegistered = QString("The total Registered: %1").arg(newRegistrationList.totalRegistrations());
 
-    qDebug() << totalRegistered;
-
     ui->label_searchOutput_3->setText(totalRegistered);
+}
+
+void MainWindow::on_actionSave_triggered()
+{
+    QString fileName = QFileDialog::getSaveFileName(this, tr("Save Registration List"), "", tr("XML Files (*.xml);;All Files (*)"));
+
+    if (fileName.isEmpty())
+        return;
+
+    QFile file(fileName);
+    if (!file.open(QIODevice::WriteOnly | QIODevice::Text))
+    {
+        qDebug() << "Cannot open file for writing: " << file.errorString();
+        return;
+    }
+
+    RegistrationListWriter writer;
+    QString xmlContent = writer.write(newRegistrationList);
+
+    QTextStream out(&file);
+    out << xmlContent;
+
+    file.close();
 }
 

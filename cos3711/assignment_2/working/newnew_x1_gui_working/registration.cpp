@@ -22,12 +22,12 @@ QString Registration::toString() const
     return m_Attendee->toString();
 }
 
-QDate Registration::getBookingDate()
+QDate Registration::getBookingDate() const
 {
     return m_BookingDate;
 }
 
-double Registration::calculateFee()
+double Registration::calculateFee() const
 {
     return STANDARD_FEE;
 }
