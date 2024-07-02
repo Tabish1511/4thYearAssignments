@@ -11,12 +11,14 @@
 
 #include <QtCore/QVariant>
 #include <QtWidgets/QApplication>
+#include <QtWidgets/QHeaderView>
 #include <QtWidgets/QLabel>
 #include <QtWidgets/QLineEdit>
 #include <QtWidgets/QMainWindow>
 #include <QtWidgets/QMenuBar>
 #include <QtWidgets/QPushButton>
 #include <QtWidgets/QStatusBar>
+#include <QtWidgets/QTableWidget>
 #include <QtWidgets/QWidget>
 
 QT_BEGIN_NAMESPACE
@@ -40,6 +42,7 @@ public:
     QLabel *label_searchOutput_2;
     QPushButton *pushButton_4;
     QLabel *label_searchOutput_3;
+    QTableWidget *tableWidget;
     QMenuBar *menubar;
     QStatusBar *statusbar;
 
@@ -95,6 +98,25 @@ public:
         label_searchOutput_3 = new QLabel(centralwidget);
         label_searchOutput_3->setObjectName("label_searchOutput_3");
         label_searchOutput_3->setGeometry(QRect(580, 180, 191, 21));
+        tableWidget = new QTableWidget(centralwidget);
+        if (tableWidget->columnCount() < 3)
+            tableWidget->setColumnCount(3);
+        QTableWidgetItem *__qtablewidgetitem = new QTableWidgetItem();
+        tableWidget->setHorizontalHeaderItem(0, __qtablewidgetitem);
+        QTableWidgetItem *__qtablewidgetitem1 = new QTableWidgetItem();
+        tableWidget->setHorizontalHeaderItem(1, __qtablewidgetitem1);
+        QTableWidgetItem *__qtablewidgetitem2 = new QTableWidgetItem();
+        tableWidget->setHorizontalHeaderItem(2, __qtablewidgetitem2);
+        if (tableWidget->rowCount() < 100)
+            tableWidget->setRowCount(100);
+        tableWidget->setObjectName("tableWidget");
+        tableWidget->setGeometry(QRect(40, 230, 711, 321));
+        tableWidget->setAlternatingRowColors(true);
+        tableWidget->setRowCount(100);
+        tableWidget->horizontalHeader()->setCascadingSectionResizes(false);
+        tableWidget->horizontalHeader()->setDefaultSectionSize(220);
+        tableWidget->verticalHeader()->setCascadingSectionResizes(false);
+        tableWidget->verticalHeader()->setDefaultSectionSize(35);
         MainWindow->setCentralWidget(centralwidget);
         menubar = new QMenuBar(MainWindow);
         menubar->setObjectName("menubar");
@@ -122,6 +144,12 @@ public:
         label_searchOutput_2->setText(QString());
         pushButton_4->setText(QCoreApplication::translate("MainWindow", "Get number of Registered", nullptr));
         label_searchOutput_3->setText(QString());
+        QTableWidgetItem *___qtablewidgetitem = tableWidget->horizontalHeaderItem(0);
+        ___qtablewidgetitem->setText(QCoreApplication::translate("MainWindow", "Name", nullptr));
+        QTableWidgetItem *___qtablewidgetitem1 = tableWidget->horizontalHeaderItem(1);
+        ___qtablewidgetitem1->setText(QCoreApplication::translate("MainWindow", "Email", nullptr));
+        QTableWidgetItem *___qtablewidgetitem2 = tableWidget->horizontalHeaderItem(2);
+        ___qtablewidgetitem2->setText(QCoreApplication::translate("MainWindow", "Affiliation", nullptr));
     } // retranslateUi
 
 };

@@ -43,6 +43,15 @@ void MainWindow::on_pushButton_clicked()
     for (Registration* reg : allRegistrations) {
         qDebug() << reg->getAttendee()->toString();
     }
+
+
+    int row = 0;
+    for (const Registration* reg : allRegistrations) {
+        ui->tableWidget->setItem(row, 0, new QTableWidgetItem(reg->getAttendee()->getName()));
+        ui->tableWidget->setItem(row, 1, new QTableWidgetItem(reg->getAttendee()->getAffiliation()));
+        ui->tableWidget->setItem(row, 2, new QTableWidgetItem(reg->getAttendee()->getEmail()));
+        ++row;
+    }
 }
 
 
