@@ -257,6 +257,12 @@
 	"HEADERS" : 
 	[
 		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/guestregistration.h",
+			"MU",
+			"EWIEGA46WW/moc_guestregistration.cpp",
+			null
+		],
+		[
 			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/mainwindow.h",
 			"MU",
 			"EWIEGA46WW/moc_mainwindow.cpp",
@@ -278,6 +284,12 @@
 			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.h",
 			"MU",
 			"EWIEGA46WW/moc_registrationlist.cpp",
+			null
+		],
+		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/studentregistration.h",
+			"MU",
+			"EWIEGA46WW/moc_studentregistration.cpp",
 			null
 		]
 	],
@@ -353,6 +365,11 @@
 	"SOURCES" : 
 	[
 		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/guestregistration.cpp",
+			"MU",
+			null
+		],
+		[
 			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/main.cpp",
 			"MU",
 			null
@@ -374,6 +391,11 @@
 		],
 		[
 			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/studentregistration.cpp",
 			"MU",
 			null
 		]

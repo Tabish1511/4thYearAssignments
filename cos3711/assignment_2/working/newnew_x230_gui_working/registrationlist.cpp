@@ -22,3 +22,14 @@ QList<Registration *> RegistrationList::getAllRegistrations() const
 {
     return m_AttendeeList;
 }
+
+double RegistrationList::totaltFee(QString t)
+{
+    if(t == "standard"){
+        return 100.00;
+    }else if(t == "student"){
+        return 50.00;
+    }else{
+        return 10.00;
+    }
+}

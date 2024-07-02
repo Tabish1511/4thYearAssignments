@@ -1,4 +1,5 @@
 newnew_x230_gui_working_autogen/timestamp: \
+	C:/Qt/6.7.2/mingw_64/include/QtCore/QDate \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/QObject \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/q20functional.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/q20memory.h \
@@ -18,6 +19,7 @@ newnew_x230_gui_working_autogen/timestamp: \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qbytearrayalgorithms.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qbytearraylist.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qbytearrayview.h \
+	C:/Qt/6.7.2/mingw_64/include/QtCore/qcalendar.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qchar.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qcompare.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qcompare_impl.h \
@@ -31,6 +33,7 @@ newnew_x230_gui_working_autogen/timestamp: \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qcontiguouscache.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qdarwinhelpers.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qdatastream.h \
+	C:/Qt/6.7.2/mingw_64/include/QtCore/qdatetime.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qdebug.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qendian.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qexceptionhandling.h \
@@ -50,6 +53,7 @@ newnew_x230_gui_working_autogen/timestamp: \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qlatin1stringview.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qline.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qlist.h \
+	C:/Qt/6.7.2/mingw_64/include/QtCore/qlocale.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qlogging.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qmalloc.h \
 	C:/Qt/6.7.2/mingw_64/include/QtCore/qmap.h \
@@ -522,6 +526,8 @@ newnew_x230_gui_working_autogen/timestamp: \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeRCCompiler.cmake \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/3.29.3/CMakeSystem.cmake \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x230_gui_working_autogen/moc_predefs.h \
+	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/guestregistration.cpp \
+	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/guestregistration.h \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/main.cpp \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/mainwindow.cpp \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/mainwindow.h \
@@ -531,5 +537,7 @@ newnew_x230_gui_working_autogen/timestamp: \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registration.h \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.cpp \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/registrationlist.h \
+	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/studentregistration.cpp \
+	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/studentregistration.h \
 	C:/Users/khaqa/Documents/Tabish\ Folder/UNISA/4thYearAssignments/cos3711/assignment_2/working/newnew_x230_gui_working/mainwindow.ui \
 	C:/Qt/Tools/CMake_64/bin/cmake.exe

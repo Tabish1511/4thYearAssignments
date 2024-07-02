@@ -2,6 +2,7 @@
 #define REGISTRATION_H
 #include "person.h"
 #include <QObject>
+#include <QDate>
 
 class Registration : public QObject
 {
@@ -10,10 +11,15 @@ public:
     explicit Registration(QObject *parent = nullptr);
     Registration(Person *a);
     Person *getAttendee() const;
-    QString toString();
+    virtual QString toString() const;
+    QDate getBookingDate();
+    double calculateFee();
+
+    static const double STANDARD_FEE;
 
 private:
     Person *m_Attendee;
+    QDate m_BookingDate;
 
 signals:
 };

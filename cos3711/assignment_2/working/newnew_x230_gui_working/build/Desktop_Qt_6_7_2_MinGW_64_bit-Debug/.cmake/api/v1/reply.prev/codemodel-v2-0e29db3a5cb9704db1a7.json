@@ -7,7 +7,7 @@
 				{
 					"build" : ".",
 					"hasInstallRule" : true,
-					"jsonFile" : "directory-.-Debug-0fb339bdbd3290893e70.json",
+					"jsonFile" : "directory-.-Debug-13a2c7e816c795de9806.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.16"
@@ -44,7 +44,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "newnew_x230_gui_working::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-newnew_x230_gui_working-Debug-a6913e44472bc1eb23a2.json",
+					"jsonFile" : "target-newnew_x230_gui_working-Debug-d2a4cb5554567a506885.json",
 					"name" : "newnew_x230_gui_working",
 					"projectIndex" : 0
 				},

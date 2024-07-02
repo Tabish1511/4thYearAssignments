@@ -7,7 +7,11 @@ Person::Person(QObject *parent)
 Person::Person(QString n, QString a, QString e)
 {
     m_Name = n;
-    m_Affiliation = a;
+    if(a == ""){
+        m_Affiliation = "standard";
+    }else{
+        m_Affiliation = a;
+    }
     m_Email = e;
 }
 
@@ -28,7 +32,7 @@ QString Person::getEmail()
 
 QString Person::toString()
 {
-    return QString("Name: %1, Affiliation: %2, Email: %3")
+    return QString("Name: %1\nAffiliation: %2\nEmail: %3\n")
         .arg(m_Name)
         .arg(m_Affiliation)
         .arg(m_Email);

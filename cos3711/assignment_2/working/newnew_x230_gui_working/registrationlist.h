@@ -11,6 +11,7 @@ public:
     bool addRegistration(Registration *r);
     int totalRegistrations();
     QList<Registration*> getAllRegistrations() const;
+    double totaltFee(QString t);
 
 private:
     QList<Registration*> m_AttendeeList;
