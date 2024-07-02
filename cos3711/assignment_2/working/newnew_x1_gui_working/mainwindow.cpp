@@ -11,6 +11,7 @@ MainWindow::MainWindow(QWidget *parent)
     , ui(new Ui::MainWindow)
 {
     ui->setupUi(this);
+    listReader = new RegistrationListReader(this);
 }
 
 MainWindow::~MainWindow()
@@ -119,3 +120,18 @@ void MainWindow::on_actionSave_triggered()
     file.close();
 }
 
+void MainWindow::on_actionOpen_triggered()
+{
+    QString filePath = QFileDialog::getOpenFileName(this, "Select XML file", QDir::homePath(), "XML Files (*.xml)");
+
+    if (!filePath.isEmpty()) {
+        QList<Registration*> newRegistrations = listReader->readRegistrations(filePath);
+        allRegistrations.append(newRegistrations);
+
+        // Optionally, update UI or perform further processing with newRegistrations
+
+        qDebug() << "Loaded registrations from file: " << filePath;
+    } else {
+        qDebug() << "No file selected.";
+    }
+}

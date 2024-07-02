@@ -30,6 +30,7 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
         studentregistration.h studentregistration.cpp
         guestregistration.h guestregistration.cpp
         registrationlistwriter.h registrationlistwriter.cpp
+        registrationlistreader.h registrationlistreader.cpp
 
 
     )

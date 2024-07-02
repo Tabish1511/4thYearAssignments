@@ -2,6 +2,7 @@
 #define MAINWINDOW_H
 #include "registrationlist.h"
 #include "registrationlistwriter.h"
+#include "registrationlistreader.h"
 
 #include <QMainWindow>
 #include <QFileDialog>
@@ -31,9 +32,12 @@ private slots:
 
     void on_actionSave_triggered();
 
+    void on_actionOpen_triggered();
+
 private:
     Ui::MainWindow *ui;
     RegistrationList newRegistrationList;
     QList<Registration*> allRegistrations;
+    RegistrationListReader *listReader;
 };
 #endif // MAINWINDOW_H

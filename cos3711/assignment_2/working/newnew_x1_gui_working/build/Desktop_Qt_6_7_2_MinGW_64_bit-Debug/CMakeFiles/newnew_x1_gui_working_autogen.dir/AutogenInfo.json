@@ -296,6 +296,12 @@
 			null
 		],
 		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistreader.h",
+			"MU",
+			"EWIEGA46WW/moc_registrationlistreader.cpp",
+			null
+		],
+		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistwriter.h",
 			"MU",
 			"EWIEGA46WW/moc_registrationlistwriter.cpp",
@@ -408,6 +414,11 @@
 		],
 		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlist.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistreader.cpp",
 			"MU",
 			null
 		],

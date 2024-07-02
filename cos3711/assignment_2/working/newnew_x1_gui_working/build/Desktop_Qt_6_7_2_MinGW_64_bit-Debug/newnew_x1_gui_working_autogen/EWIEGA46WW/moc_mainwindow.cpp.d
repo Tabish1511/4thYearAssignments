@@ -1,6 +1,7 @@
 C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/EWIEGA46WW/moc_mainwindow.cpp: C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/mainwindow.h \
   C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/moc_predefs.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QDate \
+  C:/Qt/6.7.2/mingw_64/include/QtCore/QList \
   C:/Qt/6.7.2/mingw_64/include/QtCore/QObject \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20functional.h \
   C:/Qt/6.7.2/mingw_64/include/QtCore/q20memory.h \
@@ -402,4 +403,5 @@ C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/as
   C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/person.h \
   C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registration.h \
   C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlist.h \
+  C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistreader.h \
   C:/Users/User/Documents/Study/UNISA/MODULES/4th\ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlistwriter.h
