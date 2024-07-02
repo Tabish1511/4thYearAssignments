@@ -66,8 +66,32 @@ void MainWindow::on_pushButton_2_clicked()
 }
 
 
+void MainWindow::on_pushButton_3_clicked()
+{
+    QString affilSearch = ui->lineEdit_searchByAffiliation->text();
+
+    QString affilOutput;
+
+    // qDebug() << affilSearch;
+
+    if(affilSearch == "Student" || affilSearch == "student"){
+        affilOutput = "ZAR50.00";
+    } else if(affilSearch == "Guest" || affilSearch == "guest"){
+        affilOutput = "ZAR10.00";
+    } else{
+        affilOutput = "ZAR100.00";
+    }
+
+    ui->label_searchOutput_2->setText(affilOutput);
+}
 
 
+void MainWindow::on_pushButton_4_clicked()
+{
+    QString totalRegistered = QString("The total Registered: %1").arg(newRegistrationList.totalRegistrations());
 
+    qDebug() << totalRegistered;
 
+    ui->label_searchOutput_3->setText(totalRegistered);
+}
 
