@@ -1,6 +1,9 @@
 #include "registrationlistreader.h"
+#include "studentregistration.h"
+#include "guestregistration.h"
 #include <QFile>
 #include <QXmlStreamReader>
+#include <QDomDocument>
 
 RegistrationListReader::RegistrationListReader(QObject *parent) : QObject(parent)
 {}
@@ -15,46 +18,41 @@ QList<Registration*> RegistrationListReader::readRegistrations(const QString &fi
         return registrations;
     }
 
-    QXmlStreamReader xmlReader(&file);
+    QDomDocument doc;
+    doc.setContent(&file);
+    QDomElement root = doc.documentElement();
+    QDomNodeList registrationsDom = root.elementsByTagName("registration");
 
-    while (!xmlReader.atEnd() && !xmlReader.hasError()) {
-        QXmlStreamReader::TokenType token = xmlReader.readNext();
 
-        if (token == QXmlStreamReader::StartElement && xmlReader.name() == QString("registration")) {
-            Registration *registration = new Registration();
 
-            // Parse attributes or child elements as needed
-            QXmlStreamAttributes attributes = xmlReader.attributes();
-            if (attributes.hasAttribute("type")) {
-                QString type = attributes.value("type").toString();
-                // Handle different types if necessary
-            }
+    for(int i = 0; i < registrationsDom.count(); i++){
+        QDomNode registrationNode = registrationsDom.at(i);
+        QDomElement registrationElement = registrationNode.toElement();
+        QDomNodeList attendeeList = registrationElement.elementsByTagName("attendee");
 
-            // Example: Parse child elements
-            while (!(xmlReader.tokenType() == QXmlStreamReader::EndElement && xmlReader.name() == QString("registration"))) {
-                if (xmlReader.tokenType() == QXmlStreamReader::StartElement) {
-                    if (xmlReader.name() == QString("attendee")) {
-                        // Parse attendee details
-                        // Example: QString name = xmlReader.readElementText();
-                    } else if (xmlReader.name() == QString("bookingdate")) {
-                        // Parse booking date
-                    } else if (xmlReader.name() == QString("registrationfee")) {
-                        // Parse registration fee
-                    }
-                    // Add more parsing logic as needed
-                }
-                xmlReader.readNext();
-            }
+        QDomNode attendeeNode = attendeeList.at(0);
+        QDomElement attendeeElement = attendeeNode.toElement();
 
-            registrations.append(registration);
+        QString name = attendeeElement.elementsByTagName("name").at(0).toElement().text();
+        QString affiliation = attendeeElement.elementsByTagName("affiliation").at(0).toElement().text();
+        QString email = attendeeElement.elementsByTagName("email").at(0).toElement().text();
+
+        Person *personPtr = new Person(name, affiliation, email);
+
+        Registration *registrationPtr;
+
+        if(affiliation == "student" || affiliation == "Student"){
+            registrationPtr = new StudentRegistration(personPtr, "Bachelors");
+        }else if(affiliation == "guest" || affiliation == "Guest"){
+            registrationPtr = new GuestRegistration(personPtr, "VIP");
+        }else {
+            registrationPtr = new Registration(personPtr);
         }
-    }
 
-    if (xmlReader.hasError()) {
-        qDebug() << "XML Error: " << xmlReader.errorString();
-    }
+        registrations.append(registrationPtr);
 
-    file.close();
+    }
 
     return registrations;
+
 }

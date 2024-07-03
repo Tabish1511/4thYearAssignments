@@ -127,17 +127,17 @@ void MainWindow::on_actionOpen_triggered()
     if (!filePath.isEmpty()) {
         QList<Registration*> newRegistrations = listReader->readRegistrations(filePath);
         allRegistrations.append(newRegistrations);
-
-        // Optionally, update UI or perform further processing with newRegistrations
-
-        qDebug() << "Loaded registrations from file: " << filePath;
     } else {
         qDebug() << "No file selected.";
     }
 
 
+    int row = 0;
     for (const Registration* reg : allRegistrations) {
-        qDebug() << reg->getAttendee()->toString();
+        ui->tableWidget->setItem(row, 0, new QTableWidgetItem(reg->getAttendee()->getName()));
+        ui->tableWidget->setItem(row, 1, new QTableWidgetItem(reg->getAttendee()->getAffiliation()));
+        ui->tableWidget->setItem(row, 2, new QTableWidgetItem(reg->getAttendee()->getEmail()));
+        ++row;
     }
 }
 
