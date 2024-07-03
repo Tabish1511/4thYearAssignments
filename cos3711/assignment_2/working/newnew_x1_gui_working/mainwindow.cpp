@@ -4,6 +4,7 @@
 #include "studentregistration.h"
 #include "guestregistration.h"
 #include "registrationlist.h"
+#include "registrationfactory.h"
 #include "./ui_mainwindow.h"
 
 MainWindow::MainWindow(QWidget *parent)
@@ -21,23 +22,13 @@ MainWindow::~MainWindow()
 
 void MainWindow::on_pushButton_clicked()
 {
+    RegistrationFactory f;
+
     QString name = ui->lineEdit_name->text();
     QString email = ui->lineEdit_2_email->text();
     QString affiliation = ui->lineEdit_3_affil->text();
 
-    Person *personPtr = new Person(name, affiliation, email);
-
-    Registration *registrationPtr;
-
-    if(affiliation == "student" || affiliation == "Student"){
-        registrationPtr = new StudentRegistration(personPtr, "Bachelors");
-    }else if(affiliation == "guest" || affiliation == "Guest"){
-        registrationPtr = new GuestRegistration(personPtr, "VIP");
-    }else {
-        registrationPtr = new Registration(personPtr);
-    }
-
-    newRegistrationList.addRegistration(registrationPtr);
+    newRegistrationList.addRegistration(f.create(name, affiliation, email));
 
     allRegistrations = newRegistrationList.getAllRegistrations();
 

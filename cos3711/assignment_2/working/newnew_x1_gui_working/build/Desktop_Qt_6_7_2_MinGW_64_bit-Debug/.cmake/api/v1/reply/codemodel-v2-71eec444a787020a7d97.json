@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-4e9370b8a1125a7b495f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "newnew_x1_gui_working",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "newnew_x1_gui_working::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newnew_x1_gui_working-Debug-6b094c5c45617da57707.json",
+					"name" : "newnew_x1_gui_working",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newnew_x1_gui_working_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newnew_x1_gui_working_autogen-Debug-5c47fdceac5ef4922dbc.json",
+					"name" : "newnew_x1_gui_working_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "newnew_x1_gui_working_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-newnew_x1_gui_working_autogen_timestamp_deps-Debug-0a019c35b9c63015bf94.json",
+					"name" : "newnew_x1_gui_working_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

@@ -129,6 +129,14 @@ build CMakeFiles/newnew_x1_gui_working.dir/registrationlistreader.cpp.obj: CXX_C
   OBJECT_DIR = CMakeFiles\newnew_x1_gui_working.dir
   OBJECT_FILE_DIR = CMakeFiles\newnew_x1_gui_working.dir
 
+build CMakeFiles/newnew_x1_gui_working.dir/registrationfactory.cpp.obj: CXX_COMPILER__newnew_x1_gui_working_unscanned_Debug C$:/Users/User/Documents/Study/UNISA/MODULES/4th$ Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationfactory.cpp || cmake_object_order_depends_target_newnew_x1_gui_working
+  DEFINES = -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_WIDGETS_LIB -DQT_XML_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64
+  DEP_FILE = CMakeFiles\newnew_x1_gui_working.dir\registrationfactory.cpp.obj.d
+  FLAGS = -DQT_QML_DEBUG -g -std=gnu++17 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/newnew_x1_gui_working_autogen/include" -isystem C:/Qt/6.7.2/mingw_64/include/QtCore -isystem C:/Qt/6.7.2/mingw_64/include -isystem C:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.7.2/mingw_64/include/QtGui -isystem C:/Qt/6.7.2/mingw_64/include/QtXml
+  OBJECT_DIR = CMakeFiles\newnew_x1_gui_working.dir
+  OBJECT_FILE_DIR = CMakeFiles\newnew_x1_gui_working.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target newnew_x1_gui_working
@@ -137,7 +145,7 @@ build CMakeFiles/newnew_x1_gui_working.dir/registrationlistreader.cpp.obj: CXX_C
 #############################################
 # Link the executable newnew_x1_gui_working.exe
 
-build newnew_x1_gui_working.exe: CXX_EXECUTABLE_LINKER__newnew_x1_gui_working_Debug CMakeFiles/newnew_x1_gui_working.dir/newnew_x1_gui_working_autogen/mocs_compilation.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/main.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/person.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registration.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationlist.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/studentregistration.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/guestregistration.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationlistwriter.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationlistreader.cpp.obj | C$:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Xml.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a || newnew_x1_gui_working_autogen newnew_x1_gui_working_autogen_timestamp_deps
+build newnew_x1_gui_working.exe: CXX_EXECUTABLE_LINKER__newnew_x1_gui_working_Debug CMakeFiles/newnew_x1_gui_working.dir/newnew_x1_gui_working_autogen/mocs_compilation.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/main.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/mainwindow.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/person.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registration.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationlist.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/studentregistration.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/guestregistration.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationlistwriter.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationlistreader.cpp.obj CMakeFiles/newnew_x1_gui_working.dir/registrationfactory.cpp.obj | C$:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Xml.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a C$:/Qt/6.7.2/mingw_64/lib/libQt6Core.a C$:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a || newnew_x1_gui_working_autogen newnew_x1_gui_working_autogen_timestamp_deps
   FLAGS = -DQT_QML_DEBUG -g
   LINK_FLAGS = -mwindows
   LINK_LIBRARIES = C:/Qt/6.7.2/mingw_64/lib/libQt6Widgets.a  C:/Qt/6.7.2/mingw_64/lib/libQt6Xml.a  C:/Qt/6.7.2/mingw_64/lib/libQt6Gui.a  -ld3d11  -ldxgi  -ldxguid  -ld3d12  C:/Qt/6.7.2/mingw_64/lib/libQt6Core.a  -lmpr  -luserenv  -lmingw32  C:/Qt/6.7.2/mingw_64/lib/libQt6EntryPoint.a  -lshell32  -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32

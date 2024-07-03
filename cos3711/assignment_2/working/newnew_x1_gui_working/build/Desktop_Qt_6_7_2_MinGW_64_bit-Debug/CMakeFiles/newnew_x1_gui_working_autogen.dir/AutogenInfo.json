@@ -290,6 +290,12 @@
 			null
 		],
 		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationfactory.h",
+			"MU",
+			"EWIEGA46WW/moc_registrationfactory.cpp",
+			null
+		],
+		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationlist.h",
 			"MU",
 			"EWIEGA46WW/moc_registrationlist.cpp",
@@ -409,6 +415,11 @@
 		],
 		[
 			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registration.cpp",
+			"MU",
+			null
+		],
+		[
+			"C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_2/working/newnew_x1_gui_working/registrationfactory.cpp",
 			"MU",
 			null
 		],

@@ -1,6 +1,7 @@
 #include "registrationlistreader.h"
 #include "studentregistration.h"
 #include "guestregistration.h"
+#include "registrationfactory.h"
 #include <QFile>
 #include <QXmlStreamReader>
 #include <QDomDocument>
@@ -37,19 +38,22 @@ QList<Registration*> RegistrationListReader::readRegistrations(const QString &fi
         QString affiliation = attendeeElement.elementsByTagName("affiliation").at(0).toElement().text();
         QString email = attendeeElement.elementsByTagName("email").at(0).toElement().text();
 
-        Person *personPtr = new Person(name, affiliation, email);
 
-        Registration *registrationPtr;
+        RegistrationFactory f;
 
-        if(affiliation == "student" || affiliation == "Student"){
-            registrationPtr = new StudentRegistration(personPtr, "Bachelors");
-        }else if(affiliation == "guest" || affiliation == "Guest"){
-            registrationPtr = new GuestRegistration(personPtr, "VIP");
-        }else {
-            registrationPtr = new Registration(personPtr);
-        }
+        // Person *personPtr = new Person(name, affiliation, email);
 
-        registrations.append(registrationPtr);
+        // Registration *registrationPtr;
+
+        // if(affiliation == "student" || affiliation == "Student"){
+        //     registrationPtr = new StudentRegistration(personPtr, "Bachelors");
+        // }else if(affiliation == "guest" || affiliation == "Guest"){
+        //     registrationPtr = new GuestRegistration(personPtr, "VIP");
+        // }else {
+        //     registrationPtr = new Registration(personPtr);
+        // }
+
+        registrations.append(f.create(name, affiliation, email));
 
     }
 
