@@ -1,0 +1,20 @@
+# ninja log v6
+51	526	7417789240300245	Q1_autogen/timestamp	54799527c95de63
+51	526	7417789240300245	C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/finished questions folder/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/timestamp	54799527c95de63
+51	526	7417789240300245	Q1_autogen/mocs_compilation.cpp	54799527c95de63
+51	526	7417789240300245	C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/finished questions folder/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/mocs_compilation.cpp	54799527c95de63
+721	8266	7417782644734538	CMakeFiles/Q1.dir/main.cpp.obj	3a57d7168450b726
+1273	7152	7417788406410214	CMakeFiles/Q1.dir/Q1_autogen/mocs_compilation.cpp.obj	9a90915f94c60671
+528	6500	7417789245070892	CMakeFiles/Q1.dir/mainwindow.cpp.obj	d041e22cb1a6e9b
+6500	7154	7417789304791538	Q1.exe	8ae6e9c455f2b5ad
+1012	4603	7417785633886416	CMakeFiles/Q1.dir/person.cpp.obj	317485df9d28477f
+4112	9897	7417786487499458	CMakeFiles/Q1.dir/registration.cpp.obj	e54d9ef719b07200
+1283	14759	7417788406410214	CMakeFiles/Q1.dir/registrationlist.cpp.obj	4c5328e828ac55be
+533	5638	7417789245120861	CMakeFiles/Q1.dir/studentregistration.cpp.obj	757fbee043e11b6d
+52	9012	7417790215531270	Q1_autogen/timestamp	54799527c95de63
+52	9012	7417790215531270	Q1_autogen/mocs_compilation.cpp	54799527c95de63
+52	9012	7417790215531270	C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/finished questions folder/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/timestamp	54799527c95de63
+52	9012	7417790215531270	C:/Users/khaqa/Documents/Tabish Folder/UNISA/4thYearAssignments/cos3711/assignment_2/finished questions folder/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/mocs_compilation.cpp	54799527c95de63
+9038	14813	7417790305475913	CMakeFiles/Q1.dir/guestregistration.cpp.obj	523eec7de9cbc247
+9015	15847	7417790305277895	CMakeFiles/Q1.dir/mainwindow.cpp.obj	d041e22cb1a6e9b
+15847	16488	7417790373599291	Q1.exe	ed679b6c5cd8583
