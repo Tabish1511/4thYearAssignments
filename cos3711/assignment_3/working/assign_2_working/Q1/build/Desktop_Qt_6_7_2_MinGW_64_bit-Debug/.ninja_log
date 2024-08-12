@@ -1,0 +1,14 @@
+# ninja log v6
+29	3663	7451924909770792	Q1_autogen/timestamp	4e989d1b92ac98fe
+29	3663	7451924909770792	Q1_autogen/mocs_compilation.cpp	4e989d1b92ac98fe
+29	3663	7451924909770792	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/assign_2_working/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/timestamp	4e989d1b92ac98fe
+29	3663	7451924909770792	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/assign_2_working/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/mocs_compilation.cpp	4e989d1b92ac98fe
+3721	13456	7451924912442046	CMakeFiles/Q1.dir/person.cpp.obj	d7e84b48de1f6662
+3730	14022	7451924912534094	CMakeFiles/Q1.dir/registration.cpp.obj	ab2eb14a746ef0
+3739	14396	7451924912571495	CMakeFiles/Q1.dir/registrationlist.cpp.obj	aba86821643a27f3
+3697	16944	7451924912197551	CMakeFiles/Q1.dir/main.cpp.obj	1a6845037d200949
+3690	16970	7451924912035233	CMakeFiles/Q1.dir/Q1_autogen/mocs_compilation.cpp.obj	cf9c839ce0a90747
+3706	19379	7451924912280601	CMakeFiles/Q1.dir/mainwindow.cpp.obj	f1e62df037572790
+13464	20382	7451925009869742	CMakeFiles/Q1.dir/studentregistration.cpp.obj	e9a22a9da3fb20b9
+14022	20461	7451925015452768	CMakeFiles/Q1.dir/guestregistration.cpp.obj	3f7f66b7627cfe56
+20462	21291	7451925079843497	Q1.exe	532b2b4055815e73

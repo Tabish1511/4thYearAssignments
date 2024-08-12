@@ -1,0 +1,29 @@
+# ninja log v6
+109	639	7451951033429093	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+109	639	7451951033429093	q3_working_autogen/timestamp	6b394f79f791f4bd
+109	639	7451951033429093	q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+689	8785	7451945910375249	CMakeFiles/q3_working.dir/main.cpp.obj	a0b80f879b7e83f4
+109	639	7451951033429093	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/timestamp	6b394f79f791f4bd
+7674	8381	7451951109082500	q3_working.exe	73d45b93a94c55d
+2165	11342	7451945758113723	CMakeFiles/q3_working.dir/q3_working_autogen/mocs_compilation.cpp.obj	2d155c3d33536ce8
+642	7674	7451951038752287	CMakeFiles/q3_working.dir/book.cpp.obj	a48bc2090b26687
+105	596	7451957496775377	q3_working_autogen/timestamp	6b394f79f791f4bd
+105	596	7451957496775377	q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+105	596	7451957496775377	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/timestamp	6b394f79f791f4bd
+105	596	7451957496775377	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+600	9766	7451957501722256	CMakeFiles/q3_working.dir/book.cpp.obj	a48bc2090b26687
+130	580	7451957746162436	q3_working_autogen/timestamp	6b394f79f791f4bd
+130	580	7451957746162436	q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+130	580	7451957746162436	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/timestamp	6b394f79f791f4bd
+130	580	7451957746162436	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+583	8761	7451957750684165	CMakeFiles/q3_working.dir/book.cpp.obj	a48bc2090b26687
+592	9295	7451957750773927	CMakeFiles/q3_working.dir/bookwriter.cpp.obj	9de034409b71d49b
+9297	10011	7451957837830856	q3_working.exe	6e3adad05eb5eb80
+89	540	7451960682747070	q3_working_autogen/timestamp	6b394f79f791f4bd
+89	540	7451960682747070	q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+89	540	7451960682747070	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/timestamp	6b394f79f791f4bd
+89	540	7451960682747070	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/working/q3_working/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/q3_working_autogen/mocs_compilation.cpp	6b394f79f791f4bd
+544	8548	7451960687429005	CMakeFiles/q3_working.dir/main.cpp.obj	a0b80f879b7e83f4
+552	8589	7451960687510073	CMakeFiles/q3_working.dir/book.cpp.obj	a48bc2090b26687
+560	9183	7451960687592197	CMakeFiles/q3_working.dir/bookwriter.cpp.obj	9de034409b71d49b
+9183	9881	7451960773819544	q3_working.exe	6e3adad05eb5eb80
