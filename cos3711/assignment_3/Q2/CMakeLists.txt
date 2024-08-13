@@ -23,6 +23,8 @@ if(${QT_VERSION_MAJOR} GREATER_EQUAL 6)
     qt_add_executable(Q2
         MANUAL_FINALIZATION
         ${PROJECT_SOURCES}
+        book.h book.cpp
+        bookwriter.h bookwriter.cpp
     )
 # Define target properties for Android with Qt 6 as:
 #    set_property(TARGET Q2 APPEND PROPERTY QT_ANDROID_PACKAGE_SOURCE_DIR

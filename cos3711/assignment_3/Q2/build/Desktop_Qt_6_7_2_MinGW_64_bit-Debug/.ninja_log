@@ -1,0 +1,52 @@
+# ninja log v6
+25	3868	7452804718360921	Q2_autogen/timestamp	a44e0f438b16cfd1
+25	3868	7452804718360921	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+25	3868	7452804718360921	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+25	3868	7452804718360921	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+3923	12886	7452804721388154	CMakeFiles/Q2.dir/book.cpp.obj	ab1e007998b40e3a
+3931	13086	7452804721435131	CMakeFiles/Q2.dir/bookwriter.cpp.obj	10319ccdc0234113
+3904	14974	7452804721206478	CMakeFiles/Q2.dir/main.cpp.obj	d328e61f7ea5ebd3
+3913	15323	7452804721296840	CMakeFiles/Q2.dir/mainwindow.cpp.obj	2a839f44e18cb862
+3895	15897	7452804721119639	CMakeFiles/Q2.dir/Q2_autogen/mocs_compilation.cpp.obj	123dc8b0a03c3bed
+15897	16792	7452804841141850	Q2.exe	ef71116c6ea6b0f8
+106	2200	7452806714146069	Q2_autogen/timestamp	a44e0f438b16cfd1
+106	2200	7452806714146069	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+106	2200	7452806714146069	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+106	2200	7452806714146069	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+2223	9106	7452806716774750	CMakeFiles/Q2.dir/book.cpp.obj	ab1e007998b40e3a
+2213	10502	7452806716670906	CMakeFiles/Q2.dir/mainwindow.cpp.obj	2a839f44e18cb862
+2204	11337	7452806716588048	CMakeFiles/Q2.dir/Q2_autogen/mocs_compilation.cpp.obj	123dc8b0a03c3bed
+11338	12406	7452806807925927	Q2.exe	ef71116c6ea6b0f8
+101	571	7452812924616217	Q2_autogen/timestamp	a44e0f438b16cfd1
+101	571	7452812924616217	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+101	571	7452812924616217	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+101	571	7452812924616217	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+582	8535	7452812929487851	CMakeFiles/Q2.dir/mainwindow.cpp.obj	2a839f44e18cb862
+118	600	7452813105402799	Q2_autogen/timestamp	a44e0f438b16cfd1
+118	600	7452813105402799	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+118	600	7452813105402799	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+118	600	7452813105402799	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+611	8706	7452813110341667	CMakeFiles/Q2.dir/mainwindow.cpp.obj	2a839f44e18cb862
+603	8908	7452813110257670	CMakeFiles/Q2.dir/main.cpp.obj	d328e61f7ea5ebd3
+8909	9903	7452813193316015	Q2.exe	ef71116c6ea6b0f8
+94	1931	7452819136692117	Q2_autogen/timestamp	a44e0f438b16cfd1
+94	1931	7452819136692117	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+94	1931	7452819136692117	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+94	1931	7452819136692117	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+1951	9625	7452819138999947	CMakeFiles/Q2.dir/bookwriter.cpp.obj	10319ccdc0234113
+1942	10059	7452819138919079	CMakeFiles/Q2.dir/mainwindow.cpp.obj	2a839f44e18cb862
+1935	10734	7452819138847036	CMakeFiles/Q2.dir/Q2_autogen/mocs_compilation.cpp.obj	123dc8b0a03c3bed
+10734	11638	7452819226838312	Q2.exe	ef71116c6ea6b0f8
+56	2179	7452822346172588	Q2_autogen/timestamp	a44e0f438b16cfd1
+56	2179	7452822346172588	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+56	2179	7452822346172588	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+56	2179	7452822346172588	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+2192	10591	7452822348525309	CMakeFiles/Q2.dir/main.cpp.obj	d328e61f7ea5ebd3
+2182	11386	7452822348429862	CMakeFiles/Q2.dir/Q2_autogen/mocs_compilation.cpp.obj	123dc8b0a03c3bed
+143	689	7452822882443392	Q2_autogen/timestamp	a44e0f438b16cfd1
+143	689	7452822882443392	Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+143	689	7452822882443392	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp	a44e0f438b16cfd1
+143	689	7452822882443392	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp	a44e0f438b16cfd1
+692	8570	7452822887927195	CMakeFiles/Q2.dir/main.cpp.obj	d328e61f7ea5ebd3
+700	9714	7452822888008791	CMakeFiles/Q2.dir/mainwindow.cpp.obj	2a839f44e18cb862
+9715	10748	7452822978157584	Q2.exe	ef71116c6ea6b0f8
