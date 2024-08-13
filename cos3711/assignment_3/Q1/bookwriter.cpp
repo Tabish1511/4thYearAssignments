@@ -8,7 +8,6 @@ BookWriter::BookWriter(Book *b) : m_Book(b) {}
 
 void BookWriter::saveBook()
 {
-    // Get the path to the Desktop directory
     QString desktopPath = QStandardPaths::writableLocation(QStandardPaths::DesktopLocation);
 
     QString filePath = desktopPath + "/book.txt";

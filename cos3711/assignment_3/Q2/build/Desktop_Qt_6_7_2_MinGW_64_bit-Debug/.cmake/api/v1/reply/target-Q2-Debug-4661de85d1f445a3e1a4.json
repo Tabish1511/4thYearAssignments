@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Q1.exe"
+			"path" : "Q2.exe"
 		},
 		{
-			"path" : "Q1.pdb"
+			"path" : "Q2.pdb"
 		}
 	],
 	"backtrace" : 4,
@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 64,
+				"line" : 62,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 47,
+				"line" : 45,
 				"parent" : 0
 			},
 			{
@@ -322,7 +322,7 @@
 			[
 				{
 					"backtrace" : 0,
-					"path" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/include"
+					"path" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/include"
 				},
 				{
 					"backtrace" : 14,
@@ -364,9 +364,7 @@
 			[
 				0,
 				1,
-				2,
-				6,
-				8
+				2
 			]
 		}
 	],
@@ -374,13 +372,13 @@
 	[
 		{
 			"backtrace" : 0,
-			"id" : "Q1_autogen::@6890427a1f51a3e7e1df"
+			"id" : "Q2_autogen::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "Q1_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+			"id" : "Q2_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
-	"id" : "Q1::@6890427a1f51a3e7e1df",
+	"id" : "Q2::@6890427a1f51a3e7e1df",
 	"install" : 
 	{
 		"destinations" : 
@@ -392,7 +390,7 @@
 		],
 		"prefix" : 
 		{
-			"path" : "C:/Program Files (x86)/Q1"
+			"path" : "C:/Program Files (x86)/Q2"
 		}
 	},
 	"link" : 
@@ -474,8 +472,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Q1",
-	"nameOnDisk" : "Q1.exe",
+	"name" : "Q2",
+	"nameOnDisk" : "Q2.exe",
 	"paths" : 
 	{
 		"build" : ".",
@@ -489,9 +487,7 @@
 			[
 				0,
 				1,
-				2,
-				6,
-				8
+				2
 			]
 		},
 		{
@@ -499,9 +495,7 @@
 			"sourceIndexes" : 
 			[
 				3,
-				5,
-				7,
-				9
+				5
 			]
 		},
 		{
@@ -509,14 +503,14 @@
 			"sourceIndexes" : 
 			[
 				4,
-				10
+				6
 			]
 		},
 		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				11
+				7
 			]
 		}
 	],
@@ -526,7 +520,7 @@
 			"backtrace" : 0,
 			"compileGroupIndex" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/mocs_compilation.cpp",
+			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/mocs_compilation.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
@@ -552,43 +546,21 @@
 			"sourceGroupIndex" : 2
 		},
 		{
-			"backtrace" : 4,
-			"path" : "book.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 4,
-			"compileGroupIndex" : 0,
-			"path" : "book.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
-			"backtrace" : 4,
-			"path" : "bookwrlter.h",
-			"sourceGroupIndex" : 1
-		},
-		{
-			"backtrace" : 4,
-			"compileGroupIndex" : 0,
-			"path" : "bookwrlter.cpp",
-			"sourceGroupIndex" : 0
-		},
-		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/include/ui_mainwindow.h",
+			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/include/ui_mainwindow.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/timestamp",
+			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp",
 			"sourceGroupIndex" : 2
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q1_autogen/timestamp.rule",
+			"path" : "build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_autogen/timestamp.rule",
 			"sourceGroupIndex" : 3
 		}
 	],

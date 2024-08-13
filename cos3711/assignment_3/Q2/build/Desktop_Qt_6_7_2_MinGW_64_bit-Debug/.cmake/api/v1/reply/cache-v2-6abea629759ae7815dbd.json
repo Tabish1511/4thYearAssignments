@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug"
+			"value" : "c:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -563,7 +563,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1"
+			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_BINDIR",
@@ -767,7 +767,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "C:/Program Files (x86)/Q1"
+			"value" : "C:/Program Files (x86)/Q2"
 		},
 		{
 			"name" : "CMAKE_INSTALL_RUNSTATEDIR",
@@ -1063,7 +1063,7 @@
 				}
 			],
 			"type" : "FILEPATH",
-			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake"
+			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/.qtc/package-manager/auto-setup.cmake"
 		},
 		{
 			"name" : "CMAKE_PROJECT_NAME",
@@ -1075,7 +1075,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Q1"
+			"value" : "Q2"
 		},
 		{
 			"name" : "CMAKE_PROJECT_VERSION",
@@ -1566,7 +1566,7 @@
 			"value" : "1"
 		},
 		{
-			"name" : "Q1_BINARY_DIR",
+			"name" : "Q2_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1575,10 +1575,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug"
+			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug"
 		},
 		{
-			"name" : "Q1_IS_TOP_LEVEL",
+			"name" : "Q2_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1590,7 +1590,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Q1_SOURCE_DIR",
+			"name" : "Q2_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1599,7 +1599,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q1"
+			"value" : "C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_3/Q2"
 		},
 		{
 			"name" : "QT_ADDITIONAL_HOST_PACKAGES_PREFIX_PATH",
@@ -6223,7 +6223,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Program Files (x86)/Q1"
+			"value" : "C:/Program Files (x86)/Q2"
 		}
 	],
 	"kind" : "cache",
