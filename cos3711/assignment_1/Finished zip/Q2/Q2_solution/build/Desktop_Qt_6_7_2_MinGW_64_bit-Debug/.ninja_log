@@ -1,0 +1,11 @@
+# ninja log v6
+33	3247	7454123247767621	Q2_solution_autogen/timestamp	6a7e2be06099fd39
+33	3247	7454123247767621	Q2_solution_autogen/mocs_compilation.cpp	6a7e2be06099fd39
+33	3247	7454123247767621	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Finished zip/Q2/Q2_solution/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_solution_autogen/timestamp	6a7e2be06099fd39
+33	3247	7454123247767621	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Finished zip/Q2/Q2_solution/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q2_solution_autogen/mocs_compilation.cpp	6a7e2be06099fd39
+3293	12626	7454123250181954	CMakeFiles/Q2_solution.dir/software.cpp.obj	81a40c2c1d37dfd
+3303	13019	7454123250261476	CMakeFiles/Q2_solution.dir/reviews.cpp.obj	f4546d6e577f387e
+3273	13624	7454123249980209	CMakeFiles/Q2_solution.dir/main.cpp.obj	e823ef2d0b4e3f61
+3266	14172	7454123249864091	CMakeFiles/Q2_solution.dir/Q2_solution_autogen/mocs_compilation.cpp.obj	7d556ce6a87ed5cf
+3283	14552	7454123250076291	CMakeFiles/Q2_solution.dir/dialog.cpp.obj	1cf9c91d7d7b7c1c
+14553	15343	7454123362772890	Q2_solution.exe	58a5224adc613a74

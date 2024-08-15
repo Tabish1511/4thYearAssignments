@@ -42,13 +42,13 @@ public:
         centralwidget->setObjectName("centralwidget");
         checkBox = new QCheckBox(centralwidget);
         checkBox->setObjectName("checkBox");
-        checkBox->setGeometry(QRect(120, 40, 80, 23));
+        checkBox->setGeometry(QRect(120, 40, 211, 23));
         checkBox_2 = new QCheckBox(centralwidget);
         checkBox_2->setObjectName("checkBox_2");
-        checkBox_2->setGeometry(QRect(120, 90, 80, 23));
+        checkBox_2->setGeometry(QRect(120, 90, 311, 23));
         checkBox_3 = new QCheckBox(centralwidget);
         checkBox_3->setObjectName("checkBox_3");
-        checkBox_3->setGeometry(QRect(120, 140, 80, 23));
+        checkBox_3->setGeometry(QRect(120, 140, 411, 23));
         pushButton = new QPushButton(centralwidget);
         pushButton->setObjectName("pushButton");
         pushButton->setGeometry(QRect(120, 220, 80, 25));
@@ -72,9 +72,9 @@ public:
     void retranslateUi(QMainWindow *MainWindow)
     {
         MainWindow->setWindowTitle(QCoreApplication::translate("MainWindow", "MainWindow", nullptr));
-        checkBox->setText(QCoreApplication::translate("MainWindow", "check 1", nullptr));
-        checkBox_2->setText(QCoreApplication::translate("MainWindow", "check 2", nullptr));
-        checkBox_3->setText(QCoreApplication::translate("MainWindow", "check 3", nullptr));
+        checkBox->setText(QCoreApplication::translate("MainWindow", "Password length > 5", nullptr));
+        checkBox_2->setText(QCoreApplication::translate("MainWindow", "Password length > 5 and third char is a digit", nullptr));
+        checkBox_3->setText(QCoreApplication::translate("MainWindow", "Password is between 4 and 6 characters and cannot begin with 0", nullptr));
         pushButton->setText(QCoreApplication::translate("MainWindow", "Submit", nullptr));
     } // retranslateUi
 

@@ -1,0 +1,21 @@
+# ninja log v5
+4	3649	7319436286054390	Q2_solution_autogen/timestamp	1fcbc19db2a967e3
+4	3649	7319436286054390	Q2_solution_autogen/mocs_compilation.cpp	1fcbc19db2a967e3
+4	3649	7319436286054390	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q2/build-Q2_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q2_solution_autogen/timestamp	1fcbc19db2a967e3
+4	3649	7319436286054390	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q2/build-Q2_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q2_solution_autogen/mocs_compilation.cpp	1fcbc19db2a967e3
+3652	13474	7319436385688007	CMakeFiles/Q2_solution.dir/main.cpp.obj	535e8d289b1c673
+3658	13604	7319436386948991	CMakeFiles/Q2_solution.dir/Q2_solution_autogen/mocs_compilation.cpp.obj	c9ebc5faae828024
+3665	13816	7319436389263444	CMakeFiles/Q2_solution.dir/reviews.cpp.obj	5fd44f8ed0a17ba5
+3680	13849	7319436389545195	CMakeFiles/Q2_solution.dir/software.cpp.obj	d3ea1763218def8f
+3672	14318	7319436394237364	CMakeFiles/Q2_solution.dir/dialog.cpp.obj	7a1b77749fb73656
+14319	15149	7319436402403578	Q2_solution.exe	1c886e55d0ccc033
+28	3457	7319448449122161	Q2_solution_autogen/timestamp	1fcbc19db2a967e3
+28	3457	7319448449122161	Q2_solution_autogen/mocs_compilation.cpp	1fcbc19db2a967e3
+28	3457	7319448449122161	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q2/build-Q2_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q2_solution_autogen/timestamp	1fcbc19db2a967e3
+28	3457	7319448449122161	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q2/build-Q2_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q2_solution_autogen/mocs_compilation.cpp	1fcbc19db2a967e3
+3466	12204	7319448538207486	CMakeFiles/Q2_solution.dir/main.cpp.obj	535e8d289b1c673
+3459	12890	7319448545023057	CMakeFiles/Q2_solution.dir/Q2_solution_autogen/mocs_compilation.cpp.obj	c9ebc5faae828024
+3481	13368	7319448547060522	CMakeFiles/Q2_solution.dir/software.cpp.obj	d3ea1763218def8f
+3474	13411	7319448549925497	CMakeFiles/Q2_solution.dir/reviews.cpp.obj	5fd44f8ed0a17ba5
+3492	13446	7319448550661930	CMakeFiles/Q2_solution.dir/dialog.cpp.obj	7a1b77749fb73656
+13447	14413	7319448560356143	Q2_solution.exe	1c886e55d0ccc033

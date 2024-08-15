@@ -1,0 +1,9 @@
+# ninja log v6
+21	2181	7454169406174133	Q3_solution_autogen/timestamp	832e480f43252087
+21	2181	7454169406174133	Q3_solution_autogen/mocs_compilation.cpp	832e480f43252087
+21	2181	7454169406174133	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Finished zip/for sir/Q3/Q3_solution/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q3_solution_autogen/timestamp	832e480f43252087
+21	2181	7454169406174133	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Finished zip/for sir/Q3/Q3_solution/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/Q3_solution_autogen/mocs_compilation.cpp	832e480f43252087
+2206	10934	7454169408383009	CMakeFiles/Q3_solution.dir/main.cpp.obj	35f44289c831c737
+2199	11226	7454169408281105	CMakeFiles/Q3_solution.dir/Q3_solution_autogen/mocs_compilation.cpp.obj	9c0dca9a05a206f7
+2215	12405	7454169408479592	CMakeFiles/Q3_solution.dir/dialog.cpp.obj	ea5b9c0b5a7ac389
+12406	13044	7454169510377422	Q3_solution.exe	731adb70080a8ab9

@@ -1,0 +1,9 @@
+# ninja log v5
+5	13763	7321259783072633	Q4_solution_autogen/timestamp	7ed350bf4e9ac738
+5	13763	7321259783072633	Q4_solution_autogen/mocs_compilation.cpp	7ed350bf4e9ac738
+5	13763	7321259783072633	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q4/build-Q4_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q4_solution_autogen/timestamp	7ed350bf4e9ac738
+5	13763	7321259783072633	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q4/build-Q4_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q4_solution_autogen/mocs_compilation.cpp	7ed350bf4e9ac738
+13772	21779	7321259865204663	CMakeFiles/Q4_solution.dir/Q4_solution_autogen/mocs_compilation.cpp.obj	f17efdab30b680d2
+13781	21949	7321259866879312	CMakeFiles/Q4_solution.dir/main.cpp.obj	3d0e0e1d19bc6b10
+13788	24648	7321259893865843	CMakeFiles/Q4_solution.dir/dialog.cpp.obj	11e29cb67a77ac04
+24652	25230	7321259899525556	Q4_solution.exe	c6c70e2c92632253

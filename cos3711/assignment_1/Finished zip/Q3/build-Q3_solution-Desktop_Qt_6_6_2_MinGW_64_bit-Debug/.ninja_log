@@ -1,0 +1,21 @@
+# ninja log v5
+5	2346	7320420792658082	Q3_solution_autogen/timestamp	e98b1ec0836161a1
+5	2346	7320420792658082	Q3_solution_autogen/mocs_compilation.cpp	e98b1ec0836161a1
+5	2346	7320420792658082	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q3/build-Q3_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q3_solution_autogen/timestamp	e98b1ec0836161a1
+5	2346	7320420792658082	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q3/build-Q3_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q3_solution_autogen/mocs_compilation.cpp	e98b1ec0836161a1
+2348	10630	7320420877080488	CMakeFiles/Q3_solution.dir/Q3_solution_autogen/mocs_compilation.cpp.obj	bf779b2ab7cccdf3
+2356	10987	7320420880599864	CMakeFiles/Q3_solution.dir/main.cpp.obj	34ca0ab5ba2a093d
+2363	11946	7320420890390429	CMakeFiles/Q3_solution.dir/dialog.cpp.obj	c36400badd3d9d7f
+11948	12827	7320420899059334	Q3_solution.exe	20155664219ddaa9
+13	403	7320421452029710	Q3_solution_autogen/timestamp	e98b1ec0836161a1
+13	403	7320421452029710	Q3_solution_autogen/mocs_compilation.cpp	e98b1ec0836161a1
+13	403	7320421452029710	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q3/build-Q3_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q3_solution_autogen/timestamp	e98b1ec0836161a1
+13	403	7320421452029710	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q3/build-Q3_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q3_solution_autogen/mocs_compilation.cpp	e98b1ec0836161a1
+438	6161	7320421509643963	CMakeFiles/Q3_solution.dir/dialog.cpp.obj	c36400badd3d9d7f
+6163	6759	7320421515633674	Q3_solution.exe	20155664219ddaa9
+44	410	7320421842769420	Q3_solution_autogen/timestamp	e98b1ec0836161a1
+44	410	7320421842769420	Q3_solution_autogen/mocs_compilation.cpp	e98b1ec0836161a1
+44	410	7320421842769420	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q3/build-Q3_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q3_solution_autogen/timestamp	e98b1ec0836161a1
+44	410	7320421842769420	C:/Users/User/Documents/Study/UNISA/MODULES/4th Year/Assignments_git/cos3711/assignment_1/Q3/build-Q3_solution-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Q3_solution_autogen/mocs_compilation.cpp	e98b1ec0836161a1
+454	8466	7320421923412796	CMakeFiles/Q3_solution.dir/dialog.cpp.obj	c36400badd3d9d7f
+8467	9193	7320421930508525	Q3_solution.exe	20155664219ddaa9
